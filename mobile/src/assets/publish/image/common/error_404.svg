@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="88" viewBox="0 0 192 88">
+  <defs>
+    <clipPath id="clip-path">
+      <rect y="18" width="192" height="88" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_404_img" data-name="404_img" transform="translate(0 -18)" clip-path="url(#clip-path)" style="mix-blend-mode: normal;isolation: isolate">
+    <text id="_4" data-name="4" transform="translate(0 100)" fill="#dcdcdc" font-size="105" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+    <g id="_0" data-name="0" transform="translate(67.01 18.545)">
+      <path id="패스_" data-name="패스 " d="M0,0,36.511.087l.534.778-.534,1.1.534.973-.458,1.013.458,1.021L36.588,6l.458.958-.458.875.458,1.048-.458.908.458.914H0L.461,9.88,0,9.007l.461-.7L0,7.357l.461-.711L0,5.663.52,4.68,0,3.756.638,2.8,0,1.82l.638-.9Z" transform="translate(15.119 0) rotate(15)" fill="#ae8448" opacity="0.6"/>
+      <path id="패스_2" data-name="패스 " d="M0,0,26.775.087l.392.778-.392,1.1.392.973-.336,1.013.336,1.021L26.831,6l.336.958-.336.875.336,1.048-.336.908.336.914H0L.338,9.88,0,9.007l.338-.7L0,7.357l.338-.711L0,5.663.381,4.68,0,3.756.468,2.8,0,1.82l.468-.9Z" transform="translate(2.47 20.033) rotate(-45)" fill="#ae8448" opacity="0.6"/>
+      <path id="패스_3" data-name="패스 " d="M0,0,47.059.087l.688.778-.688,1.1.688.973-.59,1.013.59,1.021L47.158,6l.59.958-.59.875.59,1.048-.59.908.59.914H0L.595,9.88,0,9.007l.595-.7L0,7.357l.595-.711L0,5.663.67,4.68,0,3.756.822,2.8,0,1.82l.822-.9Z" transform="translate(2.499 69.646) rotate(-93)" fill="#ae8448" opacity="0.6"/>
+      <path id="패스_4" data-name="패스 " d="M0,0,64.909.087l.95.778-.95,1.1.95.973-.814,1.013.814,1.021L65.045,6l.814.958-.814.875.814,1.048-.814.908.814.914H0L.82,9.88,0,9.007l.82-.7L0,7.357l.82-.711L0,5.663.924,4.68,0,3.756,1.133,2.8,0,1.82l1.133-.9Z" transform="translate(44.609 74.561) rotate(-93)" fill="#ae8448" opacity="0.6"/>
+      <path id="패스_5" data-name="패스 " d="M0,0,46.248.087l.677.778-.677,1.1.677.973-.58,1.013.58,1.021L46.345,6l.58.958-.58.875.58,1.048-.58.908.58.914H0L.584,9.88,0,9.007l.584-.7L0,7.357l.584-.711L0,5.663.659,4.68,0,3.756.808,2.8,0,1.82l.808-.9Z" transform="translate(17.288 77.28) rotate(-34)" fill="#ae8448" opacity="0.6"/>
+      <path id="패스_6" data-name="패스 " d="M0,0,22.718.087l.332.778-.332,1.1.332.973-.285,1.013.285,1.021L22.766,6l.285.958-.285.875.285,1.048-.285.908.285.914H0L.287,9.88,0,9.007l.287-.7L0,7.357l.287-.711L0,5.663.324,4.68,0,3.756.4,2.8,0,1.82l.4-.9Z" transform="translate(8.644 60.096) rotate(30)" fill="#ae8448" opacity="0.6"/>
+    </g>
+    <text id="_4-2" data-name="4" transform="translate(133 100)" fill="#dcdcdc" font-size="105" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+  </g>
+</svg>

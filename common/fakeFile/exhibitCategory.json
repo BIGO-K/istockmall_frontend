@@ -1,0 +1,1284 @@
+{
+    "category_page": {
+        "name": "여성 영캐주얼?",
+        "children": [
+            {
+                "code": "001001000",
+                "name": "아우터"
+            },
+            {
+                "code": "001002000",
+                "name": "상의"
+            },
+            {
+                "code": "001003000",
+                "name": "원피스"
+            },
+            {
+                "code": "001004000",
+                "name": "하의"
+            },
+            {
+                "code": "001005000",
+                "name": "정장세트"
+            },
+            {
+                "code": "1111",
+                "name": "티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠티셔츠"
+            }
+        ],
+        "main_banners": [
+                {
+                    "id": 22,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_banner_01.jpg",
+                    "alt": "대체텍스트",
+                    "link": "",
+                    "text_1": "평범한 듯 특별한",
+                    "text_2": "데일리 로그",
+                    "text_3": "매일 함께 하고 싶은 아이템 ~70%",
+                    "text_color": null
+                },
+                {
+                    "id": 21,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_banner_02.jpg",
+                    "alt": "대체텍스트!!",
+                    "link": "/brand/1"
+                },
+                {
+                    "id": 23,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_banner_03.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "평범한 듯 특별한",
+                    "text_2": "데일리 로그",
+                    "text_3": "매일 함께 하고 싶은 아이템 ~70%",
+                    "text_color": null
+                },
+                {
+                    "id": 24,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_banner_04.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "평범한 듯 특별한????",
+                    "text_2": "데일리 로그",
+                    "text_3": "매일 함께 하고 싶은 아이템 ~70%",
+                    "text_color": "#000000"
+                },
+                {
+                    "id": 24,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_banner_04.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "평범한 듯 특별한????",
+                    "text_2": "데일리 로그",
+                    "text_3": "매일 함께 하고 싶은 아이템 ~70%",
+                    "text_color": "#000000"
+                }
+            ],
+        "brand_banner_group": {
+            "title": "베스트 브랜드",
+            "banners": [
+                {
+                    "id": 22,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_01.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "올리브데올리브",
+                    "text_2": "백화점 랜선 쇼핑 20% 할인쿠폰"
+                },
+                {
+                    "id": 21,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_02.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "숲",
+                    "text_2": "아이스탁몰 시크릿특가"
+                },
+                {
+                    "id": 23,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_03.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "CC콜렉트",
+                    "text_2": "아이스탁몰 단독! 한정수량 특가 혜택"
+                },
+                {
+                    "id": 24,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_04.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_2": "백화점 랜선 쇼핑 20% 할인쿠폰"
+                },
+                {
+                    "id": 25,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_05.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "올리브데올리브"
+                },
+                {
+                    "id": 26,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_06.jpg",
+                    "alt": "대체텍스트"
+                },
+                {
+                    "id": 27,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_07.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "올리브데올리브",
+                    "text_2": "백화점 랜선 쇼핑 20% 할인쿠폰"
+                },
+                {
+                    "id": 28,
+                    "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/category_best_08.jpg",
+                    "alt": "대체텍스트",
+                    "link": "/brand/1",
+                    "text_1": "올리브데올리브",
+                    "text_2": "백화점 랜선 쇼핑 20% 할인쿠폰"
+                }
+            ]
+        },
+        "brand_group": {
+            "title": "인기 브랜드?",
+            "brands": [
+                {
+                  "id": 1,
+                  "eng_name": "Istockmall",
+                  "name": "아이스탁몰",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 302,
+                  "eng_name": "DimGrey",
+                  "name": "문창연구소",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 303,
+                  "eng_name": "LightSlateGray",
+                  "name": "영진인터넷",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 304,
+                  "eng_name": "Pink",
+                  "name": "상수제약",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 305,
+                  "eng_name": "FloralWhite",
+                  "name": "성현금융",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 306,
+                  "eng_name": "ForestGreen",
+                  "name": "(주)효일",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 307,
+                  "eng_name": "YellowGreen",
+                  "name": "(주)준형기획",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 308,
+                  "eng_name": "Violet",
+                  "name": "정남식품",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 309,
+                  "eng_name": "SeaGreen",
+                  "name": "태현기획",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 310,
+                  "eng_name": "Yellow",
+                  "name": "(주)도현스튜디오",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 311,
+                  "eng_name": "DarkGreen",
+                  "name": "수연모바일",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 312,
+                  "eng_name": "DarkSlateGray",
+                  "name": "지혜금융",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 313,
+                  "eng_name": "DimGray",
+                  "name": "(유)나리미디어",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 314,
+                  "eng_name": "DarkOliveGreen",
+                  "name": "지희전자",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 315,
+                  "eng_name": "LightPink",
+                  "name": "(주)나형",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 316,
+                  "eng_name": "Maroon",
+                  "name": "은진보험",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 317,
+                  "eng_name": "SpringGreen",
+                  "name": "건호네트웍스",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 318,
+                  "eng_name": "PapayaWhip",
+                  "name": "진아네트웍스",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 319,
+                  "eng_name": "Darkorange",
+                  "name": "민서스튜디오",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 320,
+                  "eng_name": "Beige",
+                  "name": "(주)은정",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 321,
+                  "eng_name": "ForestGreen",
+                  "name": "(유)나루",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 322,
+                  "eng_name": "SteelBlue",
+                  "name": "(주)광현은행",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 323,
+                  "eng_name": "LightBlue",
+                  "name": "종수연구소",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 324,
+                  "eng_name": "DarkViolet",
+                  "name": "명호전자",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 325,
+                  "eng_name": "PapayaWhip",
+                  "name": "(주)소영보험",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 326,
+                  "eng_name": "DimGray",
+                  "name": "예준네트웍스",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 327,
+                  "eng_name": "DarkOrchid",
+                  "name": "(주)봄식품",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 328,
+                  "eng_name": "AntiqueWhite",
+                  "name": "서윤미디어",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 329,
+                  "eng_name": "SlateGray",
+                  "name": "(주)구범",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 330,
+                  "eng_name": "FireBrick",
+                  "name": "(주)현우제약",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 331,
+                  "eng_name": "PapayaWhip",
+                  "name": "은진보험",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 332,
+                  "eng_name": "Lime",
+                  "name": "준범식품",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 333,
+                  "eng_name": "Salmon",
+                  "name": "(주)정화스튜디오",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 334,
+                  "eng_name": "Magenta",
+                  "name": "(주)재훈",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 335,
+                  "eng_name": "OliveDrab",
+                  "name": "예지금융",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 336,
+                  "eng_name": "Linen",
+                  "name": "(주)미경제약",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 337,
+                  "eng_name": "LightBlue",
+                  "name": "(주)윤서",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 338,
+                  "eng_name": "Blue",
+                  "name": "예지스튜디오",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 339,
+                  "eng_name": "LightGreen",
+                  "name": "성진모바일",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 340,
+                  "eng_name": "LightGray",
+                  "name": "준식품",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 341,
+                  "eng_name": "LightSteelBlue",
+                  "name": "영화기획",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 342,
+                  "eng_name": "Lime",
+                  "name": "(주)주원보험",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 343,
+                  "eng_name": "MediumPurple",
+                  "name": "(주)현준전자",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 344,
+                  "eng_name": "Teal",
+                  "name": "효진식품",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 345,
+                  "eng_name": "DarkGoldenRod",
+                  "name": "(유)서윤",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 346,
+                  "eng_name": "ForestGreen",
+                  "name": "(주)지연",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 347,
+                  "eng_name": "Lavender",
+                  "name": "영호금융",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 348,
+                  "eng_name": "LimeGreen",
+                  "name": "현종캐피탈",
+                  "brand_category_ids": [
+                    3
+                  ]
+                },
+                {
+                  "id": 349,
+                  "eng_name": "HotPink",
+                  "name": "(주)종수",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 350,
+                  "eng_name": "Lavender",
+                  "name": "채원전자",
+                  "brand_category_ids": []
+                },
+                {
+                  "id": 351,
+                  "eng_name": "MediumBlue",
+                  "name": "(유)진희기획12",
+                  "brand_category_ids": [
+                    3
+                  ]
+                },
+                {
+                  "id": 354,
+                  "eng_name": "uzinbrand",
+                  "name": "유진브랜드",
+                  "brand_category_ids": [
+                    1
+                  ]
+                },
+                {
+                  "id": 355,
+                  "eng_name": "rankingNew",
+                  "name": "랭킹신규",
+                  "brand_category_ids": [
+                    3
+                  ]
+                },
+                {
+                  "id": 356,
+                  "eng_name": "brand1",
+                  "name": "brand1",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 357,
+                  "eng_name": "brand2",
+                  "name": "brand2",
+                  "brand_category_ids": [
+                    4,
+                    3
+                  ]
+                },
+                {
+                  "id": 358,
+                  "eng_name": "brand3",
+                  "name": "brand3",
+                  "brand_category_ids": [
+                    4,
+                    3,
+                    1
+                  ]
+                },
+                {
+                  "id": 359,
+                  "eng_name": "brand4",
+                  "name": "brand4",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 360,
+                  "eng_name": "brand5",
+                  "name": "brand5",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 361,
+                  "eng_name": "brand6",
+                  "name": "brand6",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 362,
+                  "eng_name": "brand7",
+                  "name": "brand7",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 363,
+                  "eng_name": "brand8",
+                  "name": "brand8",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 364,
+                  "eng_name": "brand9",
+                  "name": "brand9",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 365,
+                  "eng_name": "brand10",
+                  "name": "brand10",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 366,
+                  "eng_name": "brand11",
+                  "name": "brand11",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 367,
+                  "eng_name": "brand12",
+                  "name": "brand12",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 368,
+                  "eng_name": "brand13",
+                  "name": "brand13",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 369,
+                  "eng_name": "brand14",
+                  "name": "brand14",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 370,
+                  "eng_name": "brand15",
+                  "name": "brand15",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 371,
+                  "eng_name": "brand16",
+                  "name": "brand16",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 372,
+                  "eng_name": "brand17",
+                  "name": "brand17",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 373,
+                  "eng_name": "brand18",
+                  "name": "brand18",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 374,
+                  "eng_name": "brand19",
+                  "name": "brand19",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 375,
+                  "eng_name": "brand20",
+                  "name": "brand20",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 376,
+                  "eng_name": "brand21",
+                  "name": "brand21",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 377,
+                  "eng_name": "brand22",
+                  "name": "brand22",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 378,
+                  "eng_name": "brand23",
+                  "name": "brand23",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 379,
+                  "eng_name": "brand24",
+                  "name": "brand24",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 380,
+                  "eng_name": "brand25",
+                  "name": "brand25",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 381,
+                  "eng_name": "brand26",
+                  "name": "brand26",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 382,
+                  "eng_name": "brand27",
+                  "name": "brand27",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 383,
+                  "eng_name": "brand28",
+                  "name": "brand28",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 384,
+                  "eng_name": "brand29",
+                  "name": "brand29",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 385,
+                  "eng_name": "brand30",
+                  "name": "brand30",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 386,
+                  "eng_name": "brand31",
+                  "name": "brand31",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 387,
+                  "eng_name": "brand32",
+                  "name": "brand32",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 388,
+                  "eng_name": "brand33",
+                  "name": "brand33",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 389,
+                  "eng_name": "brand34",
+                  "name": "brand34",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 390,
+                  "eng_name": "brand35",
+                  "name": "brand35",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 391,
+                  "eng_name": "brand36",
+                  "name": "brand36",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 392,
+                  "eng_name": "brand37",
+                  "name": "brand37",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 393,
+                  "eng_name": "brand38",
+                  "name": "brand38",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 394,
+                  "eng_name": "brand39",
+                  "name": "brand39",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 395,
+                  "eng_name": "brand40",
+                  "name": "brand40",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 396,
+                  "eng_name": "brand41",
+                  "name": "brand41",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 397,
+                  "eng_name": "brand42",
+                  "name": "brand42",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 398,
+                  "eng_name": "brand43",
+                  "name": "brand43",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 399,
+                  "eng_name": "brand44",
+                  "name": "brand44",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 400,
+                  "eng_name": "brand45",
+                  "name": "brand45",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 401,
+                  "eng_name": "brand46",
+                  "name": "brand46",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 402,
+                  "eng_name": "brand47",
+                  "name": "brand47",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 403,
+                  "eng_name": "brand48",
+                  "name": "brand48",
+                  "brand_category_ids": [
+                    4
+                  ]
+                },
+                {
+                  "id": 404,
+                  "eng_name": "JOINUS",
+                  "name": "조이너스",
+                  "brand_category_ids": [
+                    5
+                  ]
+                },
+                {
+                  "id": 405,
+                  "eng_name": "COMPAGNA",
+                  "name": "꼼빠니아",
+                  "brand_category_ids": [
+                    5
+                  ]
+                }
+              ]
+        },
+        "goods_group": {
+            "title": "MD 추천상품",
+            
+            "goods_list": [
+                {
+                  "id": 1,
+                  "name": "데님트렌치코트_JAAS3-UDJ210",
+                  "price": 279000,
+                  "headline": null,
+                  "base_discounted_price": 58000,
+                  "sale_rate": 79,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/01/1.jpg?ut=1680051089",
+                  "mouse_over_image_url": "",
+                  "stock": 30,
+                  "is_only_adult": false,
+                  "is_soldout": true,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 4,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 5,
+                  "name": "스트라이프패턴롱원피스_JAAU6-CRC400",
+                  "price": 299000,
+                  "headline": null,
+                  "base_discounted_price": 89000,
+                  "sale_rate": 70,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/05/1.jpg?ut=1679271868",
+                  "mouse_over_image_url": "",
+                  "stock": 3,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 3,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 4,
+                  "name": "소매벌룬블라우스_JAAU6-CRC390",
+                  "price": 199000,
+                  "headline": null,
+                  "base_discounted_price": 59000,
+                  "sale_rate": 70,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/04/1.jpg?ut=1679380847",
+                  "mouse_over_image_url": "",
+                  "stock": 77,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 1,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 3,
+                  "name": "가오리핏프린트블라우스_JAAU6-CRB370",
+                  "price": 239000,
+                  "headline": null,
+                  "base_discounted_price": 72000,
+                  "sale_rate": 70,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/03/1.jpg?ut=1679271602",
+                  "mouse_over_image_url": "",
+                  "stock": 246,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": {
+                    "label": "단독상품",
+                    "background_color_code": "#9C28B1",
+                    "font_color_code": "#FFFFFF"
+                  },
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 1,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 2,
+                  "name": "밴딩프린트와이드팬츠_JAAU6-CPL430",
+                  "price": 89000,
+                  "headline": null,
+                  "base_discounted_price": 20000,
+                  "sale_rate": 78,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/02/1.jpg?ut=1679271440",
+                  "mouse_over_image_url": "",
+                  "stock": 68,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": {
+                    "label": "단독상품",
+                    "background_color_code": "#9C28B1",
+                    "font_color_code": "#FFFFFF"
+                  },
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 2,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 23,
+                  "name": "(테스트)COURT GRAFFIK LITE III 슈즈_D932FS109WPN",
+                  "price": 79000,
+                  "headline": null,
+                  "base_discounted_price": 23000,
+                  "sale_rate": 71,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/23/1.jpg?ut=1680586814",
+                  "mouse_over_image_url": "",
+                  "stock": 990,
+                  "is_only_adult": false,
+                  "is_soldout": true,
+                  "brand_id": 7,
+                  "brand_name": "디씨",
+                  "icon": null,
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 22,
+                  "name": "꼼빠니아 셀러 디테일 스커트",
+                  "price": 50000,
+                  "headline": null,
+                  "base_discounted_price": 19000,
+                  "sale_rate": 62,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/22/1.jpg?ut=1680050122",
+                  "mouse_over_image_url": "",
+                  "stock": 15,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 18,
+                  "brand_name": "꼼빠니아",
+                  "icon": null,
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 20,
+                  "name": "꼼빠니아 퀼팅 자켓 점퍼",
+                  "price": 99000,
+                  "headline": null,
+                  "base_discounted_price": 35000,
+                  "sale_rate": 65,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/20/1.jpg?ut=1680050122",
+                  "mouse_over_image_url": "",
+                  "stock": 12,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 18,
+                  "brand_name": "꼼빠니아",
+                  "icon": null,
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 16,
+                  "name": "꼼빠니아 럭셔리 프린트 셔츠",
+                  "price": 99000,
+                  "headline": null,
+                  "base_discounted_price": 35000,
+                  "sale_rate": 65,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/16/1.jpg?ut=1680050122",
+                  "mouse_over_image_url": "",
+                  "stock": 9,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 18,
+                  "brand_name": "꼼빠니아",
+                  "icon": null,
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 15,
+                  "name": "조이너스 프릴 패턴 원피스",
+                  "price": 59000,
+                  "headline": null,
+                  "base_discounted_price": 29000,
+                  "sale_rate": 51,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/15/list_1.jpg?ut=1679989085",
+                  "mouse_over_image_url": "",
+                  "stock": 20,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 18,
+                  "brand_name": "꼼빠니아",
+                  "icon": null,
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 14,
+                  "name": "501® 오리지널 핏 진(Made in USA)_00501-2453",
+                  "price": 199000,
+                  "headline": null,
+                  "base_discounted_price": 199000,
+                  "sale_rate": 0,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/14/1.jpg?ut=1679972837",
+                  "mouse_over_image_url": "",
+                  "stock": 8,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 39,
+                  "brand_name": "리바이스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 11,
+                  "name": "(공용)텐텐레깅스_ACS1ULG8505",
+                  "price": 19000,
+                  "headline": null,
+                  "base_discounted_price": 9800,
+                  "sale_rate": 48,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/11/1.jpg?ut=1679375551",
+                  "mouse_over_image_url": "",
+                  "stock": 200,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 3,
+                  "brand_name": "밤비노",
+                  "icon": null,
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 1,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 10,
+                  "name": "패턴시스루주름롱치마_JAAU6-SQS360",
+                  "price": 279000,
+                  "headline": null,
+                  "base_discounted_price": 83000,
+                  "sale_rate": 70,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/10/1.jpg?ut=1679272601",
+                  "mouse_over_image_url": "",
+                  "stock": 109,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 1,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 9,
+                  "name": "H라인레이스스커트_JAAU6-SQS350",
+                  "price": 179000,
+                  "headline": null,
+                  "base_discounted_price": 55000,
+                  "sale_rate": 69,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/09/1.jpg?ut=1679272483",
+                  "mouse_over_image_url": "",
+                  "stock": 78,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 8,
+                  "name": "기하학패턴밴딩팬츠_JAAU6-SPL410",
+                  "price": 109000,
+                  "headline": null,
+                  "base_discounted_price": 32000,
+                  "sale_rate": 71,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/08/1.jpg?ut=1679272363",
+                  "mouse_over_image_url": "",
+                  "stock": 14,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    
+                  ],
+                  "wish_count": 1,
+                  "review_count": 2,
+                  "review_score_average": 3,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 7,
+                  "name": "시스루배색플레어카라원피스_JAAU6-SOP430",
+                  "price": 329000,
+                  "headline": null,
+                  "base_discounted_price": 99000,
+                  "sale_rate": 70,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/07/1.jpg?ut=1679272128",
+                  "mouse_over_image_url": "",
+                  "stock": 55,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 1,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                },
+                {
+                  "id": 6,
+                  "name": "자수스티치롱가디건_JAAU6-SJK300",
+                  "price": 239000,
+                  "headline": null,
+                  "base_discounted_price": 55000,
+                  "sale_rate": 77,
+                  "thumbnail_url": "https://assets.istockmall.com/mall_shop/goods/00/00/00/00/00/06/1.jpg?ut=1679271993",
+                  "mouse_over_image_url": "",
+                  "stock": 356,
+                  "is_only_adult": false,
+                  "is_soldout": false,
+                  "brand_id": 2,
+                  "brand_name": "조이너스",
+                  "icon": null,
+                  "badges": [
+                    "무료배송"
+                  ],
+                  "wish_count": 0,
+                  "review_count": 0,
+                  "review_score_average": 0,
+                  "is_use_stock_notify": false
+                }
+              ]
+        }
+    }
+}

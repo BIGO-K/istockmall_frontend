@@ -1,0 +1,167 @@
+{
+    "paginator": {
+        "total": 1,
+        "per_page": 2,
+        "current_page": 1,
+        "data": [
+            {
+                "order_id": "2206141341058520082",
+                "paid_at": "2022-03-22T14:25:11.000000Z",
+                "payment_method_label": "에스크로",
+                "packs": [
+                    {
+                        "sellers": [
+                            {
+                                "id": 1,
+                                "name": "유성은",
+                                "order_items": [
+                                    {
+                                        "id": 123,
+                                        "order_status_label": "취소 완료",
+                                        "paid_price": 15500,
+                                        "point_used": 0,
+                                        "goods": {
+                                            "id": 59184,
+                                            "name": "라꾸라꾸 라라라",
+                                            "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/91/84/1.jpg?",
+                                            "brand_name": "(주)은형식품",
+                                            "option_name": "400 / 100"
+                                        }
+                                    },
+                                    {
+                                        "id": 1234,
+                                        "order_status_label": "취소 완료",
+                                        "paid_price": 15500,
+                                        "point_used": 0,
+                                        "goods": {
+                                            "id": 59184,
+                                            "name": "라꾸라꾸 라라라",
+                                            "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/91/84/1.jpg?",
+                                            "brand_name": "(주)은형식품",
+                                            "option_name": "400 / 100"
+                                        }
+                                    },
+                                    {
+                                        "id": 1236,
+                                        "order_status_label": "취소 완료",
+                                        "paid_price": 15500,
+                                        "point_used": 0,
+                                        "goods": {
+                                            "id": 59184,
+                                            "name": "라꾸라꾸 라라라",
+                                            "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/91/84/1.jpg?",
+                                            "brand_name": "(주)은형식품",
+                                            "option_name": "400 / 100"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "shipping_rule_id": 1,
+                        "paid_shipping_price": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "paginator_v1": {
+        "total": 1,
+        "per_page": 2,
+        "current_page": 1,
+        "data": [
+            {
+                "order_id": "2206141341058520082",
+                "paid_at": "2022-03-22T14:25:11.000000Z",
+                "payment_method_label": "에스크로",
+                "packs": [
+                    {
+                        "sellers": [
+                            {
+                                "id": 15,
+                                "name": "셀러 15",
+                                "order_items": [
+                                    {
+                                        "id": 123,
+                                        "order_status_label": "결제완료",
+                                        "paid_price": 20000,
+                                        "point_used": 1200,
+                                        "goods": {
+                                            "id": 1234,
+                                            "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                                            "brand_name": "엠몬",
+                                            "option_name": "WHITE^@^S"
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "shipping_rule_id": 11,
+                        "paid_shipping_price": 3000
+                    }
+                ]
+            }
+        ]
+    },
+    "paginator_v11": {
+        "total" : 1,
+        "per_page" : 2,
+        "current_page" : 1,
+        "data" : [
+            {
+                "order_id": "2206141341058520082",
+                "payed_at": "2022-03-22T14:25:11.000000Z",
+                "payment_method_label": "에스크로",
+                "packs": [
+                    {
+                        "seller": {
+                            "id": 15,
+                            "name": "셀러 15",
+                            "tel": "02093201810"
+                        },
+                        "shipping": {
+                            "rule_id": 11,
+                            "payed_price": 2500
+                        },
+                        "order_items": [
+                            {
+                                "id": 1,
+                                "order_status_label": "결제완료",
+                                "payed_price": "20000",
+                                "goods": {
+                                    "id": "1",
+                                    "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                                    "brand_name": "엠몬",
+                                    "option_name": "WHITE^@^S"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "claim_reward_policies": [
+        {
+            "day": 3,
+            "reward_rate": 4
+        },
+        {
+            "day": 4,
+            "reward_rate": 5
+        },
+        {
+            "day": 5,
+            "reward_rate": 6
+        },
+        {
+            "day": 6,
+            "reward_rate": 7
+        },
+        {
+            "day": 7,
+            "reward_rate": 10
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+  "block": {
+    "id": 29,
+    "mui_code": "show_b_n=w12Xh5_s4_link",
+    "title_1": null,
+    "title_2": null,
+    "link": "/showcase",
+    "tabs": null,
+    "banner_partition": {
+      "banners": [
+        {
+          "id": 31,
+          "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/brand-contents/100/31/pc.jpg?ut=1666598288",
+          "alt": "\u3145\u3134\u3147",
+          "link": "/showcase/detail/31",
+          "text_1": "\uc12c\ub124\uc77c1",
+          "text_2": "\uc12c\ub124\uc77c2"
+        },
+        {
+          "id": 30,
+          "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/brand-contents/100/30/pc.jpg?ut=1666335531",
+          "alt": "11",
+          "link": "/showcase/detail/30",
+          "text_1": "123123",
+          "text_2": "13333"
+        },
+        {
+          "id": 29,
+          "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/brand-contents/100/29/pc.jpg?ut=1666335495",
+          "alt": "\u3147\u3141\u3148",
+          "link": "/showcase/detail/29",
+          "text_1": "\u3141\u3147\u3141\u31311",
+          "text_2": "\u3141\u3147\u3141\u31312"
+        },
+        {
+          "id": 28,
+          "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/brand-contents/100/28/pc.jpg?ut=1666335443",
+          "alt": "1111",
+          "link": "/showcase/detail/28",
+          "text_1": "233",
+          "text_2": "111"
+        }
+      ],
+      "current_page": 1,
+      "total": 26,
+      "per_page": 4,
+      "paging_url": "http://backend-localtest.mmon.co.kr/api/v1/exhibit/lego/block/29/partitions/banners"
+    },
+    "goods_group": null
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "paginator": {
+        "total" : 2,
+        "per_page" : 20,
+        "current_page" : 1,
+        "data" : [
+            {
+                "id": 1,
+                "is_usable": true,
+                "expire_at" : "2022-05-20T05:03:30.609545Z",
+                "use_start_at" : "2022-05-27T02:01:12.609545Z",
+                "registed_at" : "2022-05-27T02:01:12.609545Z",
+                "coupon" : {
+                    "id" : 1,
+                    "title" : "블랙야크 10% 중복할인 쿠폰블랙야크 10% 중복할인 쿠폰",
+                    "apply_range_description": "특정 브랜드 상품 사용 가능",
+                    "dc_amount": 10,
+                    "dc_type": "rate",
+                    "apply_range_type": "goods",
+                    "maximum_discount_amount": 10000,
+                    "min_sell_price": 0,
+                    "usable_device_labels": ["PC", "모바일 웹"],
+                    "is_unlimited": false
+                }
+            },
+            {
+                "id": 2,
+                "is_usable": false,
+                "expire_at" : "2022-05-10T02:01:12.609545Z",
+                "use_start_at" : "2022-05-01T02:01:12.609545Z",
+                "registed_at" : "2022-05-01T02:01:12.609545Z",
+                "coupon" : {
+                    "id" : 1,
+                    "title" : "승급 할인 쿠폰",
+                    "dc_amount": 3000,
+                    "dc_type": "KRW",
+                    "apply_range_type": "brand",
+                    "maximum_discount_amount": 50000,
+                    "min_sell_price": 20000,
+                    "usable_device_labels": ["PC", "모바일 웹", "모바일 앱"],
+                    "is_unlimited": true
+                }
+            }
+        ]
+    }
+}

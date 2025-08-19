@@ -1,0 +1,60 @@
+
+{
+    "wish_brands": [
+        {
+            "id": 1,
+            "name": "내셔널지오그래픽",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "나이키",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "아디다스",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "올리비아로렌",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "입생로랑",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "couronne",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_6.jpg"
+        },
+        {
+            "id": 7,
+            "name": "캘빈 클라인",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_7.jpg"
+        },
+        {
+            "id": 8,
+            "name": "NFL",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_8.jpg"
+        },
+        {
+            "id": 9,
+            "name": "KODAK",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_9.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Champion",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_10.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Nick Nicole",
+            "logo_image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/brand_logo_11.jpg"
+        }
+    ]
+}

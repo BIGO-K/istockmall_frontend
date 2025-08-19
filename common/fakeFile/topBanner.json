@@ -1,0 +1,28 @@
+{
+    "top_banner": {
+        "title": "DEAR DAHLIA NEW 핸드 & 바디크림 출시!",
+        "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/ribbon_banner.jpg",
+        "alt": "대체",
+        "link": "/special-event/detail/13",
+        "curtain_banner_image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/curtain_banner.jpg",
+        "curtain_banner_alt": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/curtain_banner.jpg"
+    },
+    "wing_banners": [
+        {
+            "title": "",
+            "image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/side_wing_banner.jpg",
+            "alt": "르누이 단독입점1",
+            "link": "/goods/detail/58745",
+            "big_image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/pc/image/_sample/side_wing_banner_extend.jpg",
+            "big_image_alt": "르누이 단독입점1"
+        },
+        {
+            "title": "",
+            "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/87/45/1.jpg?ut=1679074203",
+            "alt": "르누이 단독입점2",
+            "link": "/goods/detail/58745",
+            "big_image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/87/45/1.jpg?ut=1679074203",
+            "big_image_alt": "르누이 단독입점2"
+        }
+    ]
+}

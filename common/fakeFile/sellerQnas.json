@@ -1,0 +1,66 @@
+{
+    "paginator": {
+        "total": 50,
+        "curret_page": 1,
+        "per_page": 20,
+        "data": [
+            {
+                "id": 1,
+                "title": "배송 관련 문의입니다.",
+                "contents": "배송관련 문의합니다 \n 배송 언제오나요",
+                "is_private": true,
+                "goods": {
+                    "id": 1,
+                    "name": "내셔널지오그래픽 N214UVT901 리버시블 플리스 뽀글이 베스트 CARBON BLACK",
+                    "brand_name": "마이애미 프로젝트",
+                    "option_name": "FREE/95",
+                    "image_url": "https://img.nstationmall.com/mall//goods/000/000/004/120/1.jpg?resizewb=800x800&updated_at=2022040413460"
+                },
+                "answer": {
+                    "contents": "배송예정일은 마이페이지>주문내역에서 확인하실 수 있습니다.",
+                    "created_at": "2022-04-26 02:59:39"
+                },
+                "created_at": "2022-04-26 02:59:39"
+            },
+            {
+                "id": 3,
+                "title": "배송 관련 문의입니다....",
+                "contents": "배송관련 문의합니다 \n 배송 언제오나요",
+                "is_private": false,
+                "created_at": "2022-04-26 02:59:39"
+            }
+        ]
+    },
+    "order_items": [
+        {
+            "id": 1234,
+            "goods": {
+                "id": 1,
+                "name": "내셔널지오그래픽 N214UVT901 리버시블 플리스 뽀글이 베스트 CARBON BLACK",
+                "brand_name": "마이애미 프로젝트",
+                "option_name": "FREE 95",
+                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png"
+            }
+        },
+        {
+            "id": 1235,
+            "goods": {
+                "id": 2,
+                "name": "SIGNATURE EMBLEM CANVAS 데일리 꾸안꾸 코튼 린넨 박스원피스 빅사이즈 롱원피스 홈 원피스",
+                "brand_name": "마이애미 프로젝트",
+                "option_name": "FREE 95",
+                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png"
+            }
+        },
+        {
+            "id": 1236,
+            "goods": {
+                "id": 1,
+                "name": "내셔널지오그래픽 N214UVT901 리버시블 플리스 뽀글이 베스트 CARBON BLACK",
+                "brand_name": "마이애미 프로젝트",
+                "option_name": "FREE 90",
+                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_3.png"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+
+{
+	"paginator" : {
+    "total" : 3,
+    "current_page" : 1,
+    "per_page" : 10,
+    "data": [
+      {
+        "id": 1,
+        "name": "버닝카포테 SS20 LOGO T-SHIRT 화이트",
+        "brand_name": "4XR",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+        "dc_1_price": 66000,
+        "dc_1_price_sale_rate": 35,
+        "is_soldout": false
+      },
+      {
+        "id": 3,
+        "name": "[공효진 착용 아이템] 2020 S/S 반다나&플라워 믹스 패턴 스트링 티어드 스타일 롱원피스",
+        "brand_name": "써스데이아일랜드",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+        "dc_1_price": 33180,
+        "dc_1_price_sale_rate": 0,
+        "is_soldout": true
+      },
+      {
+        "id": 8,
+        "name": "아이커버낫 사퍼맨 티셔츠 아이블랙",
+        "brand_name": "커버낫",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+        "dc_1_price": 33180,
+        "dc_1_price_sale_rate": 4,
+        "is_soldout": false
+      }
+    ]
+  }
+}

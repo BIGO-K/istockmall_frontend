@@ -1,0 +1,20 @@
+{
+"basic_search_words" : [
+        {
+            "text": "기본 검색어",
+            "customLink": ""
+        },
+        {
+            "text": "랜덤 검색어",
+            "customLink": ""
+        },
+        {
+            "text": "엠몬스타",
+            "customLink": ""
+        },
+        {
+            "text": "솔루션",
+            "customLink": ""
+        }
+    ]
+}

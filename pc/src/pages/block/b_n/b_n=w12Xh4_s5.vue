@@ -1,0 +1,30 @@
+<template>
+    <MMBlock 
+        :block-name="'b_n=w12Xh4_s5'"
+        :required="{
+            requiredValueList: [block.bannerPartition?.banners, block.title1, block.title2],
+        }"
+    >
+        <MMTitle :title1="block.title1" :title2="block.title2" :design-class-name="block.designTitleClassName" />
+        <ul class="mui_flex T=equal">
+            <li v-for="banner in block.bannerPartition?.banners" :key="banner.id">
+                <MMBanner :banner="banner" :banner-image-class="'mui_bg-cover'" />
+            </li>
+        </ul>
+    </MMBlock>
+</template>
+
+<script setup lang='ts'>
+import { Block } from "$/@type/block"
+import MMBanner from '@/components/block/Banner.vue';
+import MMBlock from "@/components/block/Block.vue";
+import MMTitle from '@/components/block/Title.vue'
+import { toRefs } from "vue";
+
+const props = defineProps<{ block: Block }>();
+const { block } = toRefs(props)
+
+</script>
+<style>
+@import '@publish/css/block/normal/b_n=w12Xh4_s5.css';
+</style>

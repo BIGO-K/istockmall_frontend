@@ -1,0 +1,7 @@
+{
+    "benefits": {
+        "point": 200,
+        "coupon_count": 3
+    },
+    "orders":{"pay_ready":2,"paid":5,"delivery_ready":2,"delivery_ing":4,"delivery_complete":24,"purchase_confirmed":1,"cancel":3,"returns":0,"exchange":2,"refund":0}
+}

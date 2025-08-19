@@ -1,0 +1,27 @@
+{
+    "coupon": {
+        "apply_range_type": "goods",
+        "maximum_discount_amount": 10000,
+        "min_sell_price": 2000,
+        "usable_device_labels": ["PC", "모바일 웹"]
+    },
+    "paginator": {
+        "total" : 2,
+        "per_page" : 20,
+        "current_page" : 1,
+        "data" : [
+            {
+                "id": 1,
+                "name": "COLLEGE 스웻셔츠Univ",
+                "brand_name" : "슬로우 무브",
+                "thumbnail_url" : "https://img.nstationmall.com/mall//goods/000/000/004/120/1.jpg?resizewb=800x800&updated_at=2022040413460"
+            },
+            {
+                "id": 2,
+                "name": "COLLEGE 바지",
+                "brand_name" : "슬로우 무브??",
+                "thumbnail_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "cody_shot_categories": [
+        {
+            "id": 1,
+            "name": "TAB J"
+        },
+        {
+            "id": 2,
+            "name": "TAB A"
+        },
+        {
+            "id": 3,
+            "name": "TAB B"
+        },
+        {
+            "id": 4,
+            "name": "TAB C"
+        },
+        {
+            "id": 5,
+            "name": "TAB D"
+        },
+        {
+            "id": 6,
+            "name": "TAB E"
+        }
+    ]
+}

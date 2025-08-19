@@ -1,0 +1,44 @@
+{
+    "withdraw_reasons": [
+        {
+            "code": 1,
+            "label": "상품품질 불만",
+            "detail_reason_required": false
+        },
+        {
+            "code": 2,
+            "label": "고객서비스 불만",
+            "detail_reason_required": false
+        },
+        {
+            "code": 3,
+            "label": "원하는상품 없음",
+            "detail_reason_required": false
+        },
+        {
+            "code": 4,
+            "label": "속도가 느림",
+            "detail_reason_required": false
+        },
+        {
+            "code": 5,
+            "label": "배송지연",
+            "detail_reason_required": false
+        },
+        {
+            "code": 6,
+            "label": "교환/환불 불만",
+            "detail_reason_required": false
+        },
+        {
+            "code": 7,
+            "label": "자주 이용하지 않음",
+            "detail_reason_required": false
+        },
+        {
+            "code": 8,
+            "label": "기타",
+            "detail_reason_required": true
+        }
+    ]
+}

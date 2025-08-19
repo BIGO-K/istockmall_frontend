@@ -1,0 +1,157 @@
+{
+    "orderer_information": {
+        "email": "kei155@mmonstar.co.kr",
+        "personal_clearance_code": "TESTC1004AESPA",
+        "point_balance": "250664",
+        "latest_payment_method_code": 20,
+        "latest_payment_card_code": null,
+        "latest_payment_bank_code": 700,
+        "latest_payment_depositor_name": "김입금자",
+        "latest_cash_receipt_apply_type": 0,
+        "latest_cash_receipt_apply_key": null,
+        "latest_shipping_message": "창밖에 놔주세요",
+        "phone": "01012341234"
+    },
+    "packs": [
+        {
+            "items": [
+                {
+                    "goods_id": 649,
+                    "goods_name": "DarkMagenta aut voluptas",
+                    "goods_type": "GN",
+                    "goods_list_price": 43300,
+                    "goods_sell_price": 10300,
+                    "goods_base_discounted_price": 10300,
+                    "night_sale_amount": 0,
+                    "option_id": 8917,
+                    "option_name": "AliceBlue / M",
+                    "option_extra_amount": 0,
+                    "brand_id": 3,
+                    "brand_name": "(주)지우",
+                    "seller_id": 3,
+                    "seller_name": "은성수",
+                    "usable_coupon_regists": [
+                        {
+                            "regist_id": 12966,
+                            "coupon": {
+                                "id": 10,
+                                "title": "🥷 페이파쿠폰(public) 😢",
+                                "dc_amount": 17,
+                                "dc_type": "rate",
+                                "maximum_discount_amount": 0,
+                                "expire_at": null
+                            }
+                        }
+                    ],
+                    "appliable_immediatly_sale": {
+                        "id": 4,
+                        "title": "😈 MediumTurquoise 즉시😚할인 😟",
+                        "dc_amount": 25,
+                        "dc_type": "rate",
+                        "maximum_discount_amount": 15102
+                    },
+                    "night_sale_id": 3,
+                    "goods_thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/00/06/56/1.jpg?ut=1655177841?",
+                },
+                {
+                    "goods_id": 649,
+                    "goods_name": "DarkMagenta aut voluptas",
+                    "goods_type": "GN",
+                    "goods_list_price": 43300,
+                    "goods_sell_price": 10300,
+                    "goods_base_discounted_price": 10300,
+                    "night_sale_amount": 0,
+                    "option_id": 8917,
+                    "option_name": "AliceBlue / M",
+                    "option_extra_amount": 0,
+                    "brand_id": 3,
+                    "brand_name": "(주)지우",
+                    "seller_id": 3,
+                    "seller_name": "은성수",
+                    "usable_coupon_regists": [
+                        {
+                            "regist_id": 12966,
+                            "coupon": {
+                                "id": 10,
+                                "title": "🥷 페이파쿠폰(public) 😢",
+                                "dc_amount": 17,
+                                "dc_type": "rate",
+                                "maximum_discount_amount": 0,
+                                "expire_at": null
+                            }
+                        }
+                    ],
+                    "appliable_immediatly_sale": {
+                        "id": 4,
+                        "title": "😈 MediumTurquoise 즉시😚할인 😟",
+                        "dc_amount": 25,
+                        "dc_type": "rate",
+                        "maximum_discount_amount": 15102
+                    },
+                    "night_sale_id": 3,
+                    "goods_thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/00/06/56/1.jpg?ut=1655177841?",
+                },
+                {
+                    "goods_id": 649,
+                    "goods_name": "DarkMagenta aut voluptas",
+                    "goods_type": "GN",
+                    "goods_list_price": 43300,
+                    "goods_sell_price": 10300,
+                    "goods_base_discounted_price": 10300,
+                    "night_sale_amount": 0,
+                    "option_id": 8917,
+                    "option_name": "AliceBlue / M",
+                    "option_extra_amount": 0,
+                    "brand_id": 3,
+                    "brand_name": "(주)지우",
+                    "seller_id": 3,
+                    "seller_name": "은성수",
+                    "usable_coupon_regists": [
+                        {
+                            "regist_id": 12966,
+                            "coupon": {
+                                "id": 10,
+                                "title": "🥷 페이파쿠폰(public) 😢",
+                                "dc_amount": 17,
+                                "dc_type": "rate",
+                                "maximum_discount_amount": 0,
+                                "expire_at": null
+                            }
+                        }
+                    ],
+                    "appliable_immediatly_sale": {
+                        "id": 4,
+                        "title": "😈 MediumTurquoise 즉시😚할인 😟",
+                        "dc_amount": 25,
+                        "dc_type": "rate",
+                        "maximum_discount_amount": 15102
+                    },
+                    "night_sale_id": 3,
+                    "goods_thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/00/06/56/1.jpg?ut=1655177841?",
+                }
+            ],
+            "shipping_rule_title": "은성수_기본배송정책_조건부무료배송",
+            "shipping_type": 10,
+            "shipping_price_payment_type": 2,
+            "shipping_price_policy": 2,
+            "shipping_price": 3000,
+            "extra_shipping_price": 2500,
+            "charged_shipping_price": 3000,
+            "conditional_free_from": 25000,
+            "condition_amount": 20600,
+            "shipping_rule_id": 1
+        }
+    ],
+    "need_personal_clearance_code": false,
+    "giveaway_groups": {
+        "giveaways": [
+            {
+                "id": 0,
+                "name": null,
+                "condition_label": null,
+                "image_url": null,
+                "image_alt": null
+            }
+        ]
+    }
+}

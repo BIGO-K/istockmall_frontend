@@ -1,0 +1,95 @@
+
+
+{ 
+    "cart_list" : [
+        {
+            "seller": {
+                "id" :1 ,
+                "name": "테스트 관리자"
+            },        
+            "shipping_rule": {     
+                "is_package_delivery" : true,
+                "conditional_free_price" : 0,
+                "is_free_delivery" : true,               
+                "shipping_price": 2400                      
+            },
+            "cart_items": [
+                {
+                    "id": 400,                            
+                    "ea": 3,
+                    "sale_reserve": {
+                        "sell_start_at": "",
+                        "sell_end_at": "",
+                        "ship_start_at": "",
+                        "ship_end_at": ""
+                    },
+                    "goods": {
+                        "id": 4515,
+                        "price": 27000,
+                        "sell_price": 21200,
+                        "dc_1_price": 20200,
+                        "display_name": "상품입니다!",
+                        "display_state": "Y",
+                        "stock": 0,
+                        "max_orderable_count_for_all": 0,
+                        "is_only_adult": false,
+                        "is_wished": false,                            
+                        "thumbnail_url": "https://image.stylecrew.co.kr/mall/dev/goods/000/000/002/432/1.jpg?updated_at=20220518090943",                            
+                        "is_soldout": true,
+                        "decoded_display_name": "상품입니다",
+                        "brand": {
+                            "id": 17,
+                            "brand_name": "엠몬 브랜드33"
+                        },
+                        "category_full_path": "여성 > 아우터 > 베스트"
+                    },
+                    "option": {
+                        "id": 21210,                                
+                        "stock": 20,
+                        "price": 0,
+                        "label_1": "네이비",
+                        "label_2": "S"
+                    }
+                },
+                {
+                    "id": 401,                            
+                    "ea": 1,
+                    "sale_reserve": {
+                        "sell_start_at": "",
+                        "sell_end_at": "",
+                        "ship_start_at": "",
+                        "ship_end_at": ""
+                    },
+                    "goods": {
+                        "id": 4556,
+                        "price": 18000,
+                        "sell_price": 16200,
+                        "dc_1_price": 16200,
+                        "display_name": "BEST 특가 패딩/다운/코트/가디건 추가쿠폰864",
+                        "display_state": "Y",
+                        "stock": 1418,
+                        "max_orderable_count_for_all": 0,
+                        "is_only_adult": false,
+                        "is_wished": false,                            
+                        "thumbnail_url": "https://image.stylecrew.co.kr/mall/dev/goods/000/000/000/004/1.jpg?updated_at=20220504163716",                            
+                        "is_soldout": false,
+                        "decoded_display_name": "BEST 특가 패딩/다운/코트/가디건 추가쿠폰864",
+                        "brand": {
+                            "id": 17,
+                            "brand_name": "엠몬 브랜드2"
+                        },
+                        "category_full_path": "여성 > 아우터 > 베스트"
+                    },
+                    "option": {
+                        "id": 21210,                                
+                        "stock": 20,
+                        "price": 0,
+                        "label_1": "네이비",
+                        "label_2": "S"
+                    }
+                }
+                
+            ]
+        }
+    ]
+}

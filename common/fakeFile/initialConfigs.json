@@ -1,0 +1,144 @@
+{
+    "shop": {
+        "name": "엠몬스털",
+        "eng_name": "MMon",
+        "business_number": "792-81-00850",
+        "sell_account": "제2017-경기성남-4042호",
+        "ceo_name": "장한필!",
+        "tel": "1588-0000",
+        "privacy_manager": "이희승!",
+        "base_address":  "경기도 성남시 판교동 금토로 80번길 11",
+        "detail_address": "판교이노베이션랩 601~604호",
+        "homepage_url": "https://www.mmonstar.co.kr",
+        "payment_service_info_url": "https://admin.kcp.co.kr/Modules/escrow/kcp_pop.jsp?site_cd=AGS48&is_out_intent=Y",
+        "copyright_text": "M.MONSTAR. All rights reserved.",
+        "business_service_info_url": "https://www.ftc.go.kr/bizCommPop.do?wrkr_no=792-81-00850",
+        "bank_owner_name": "엠몬스타",
+        "cs_tel": "1577-1111",
+        "cs_email": "cs@mmonstar.co.kr",
+        "cs_time": "AM 11:59 ~ PM 00:01 (월-금)",
+        "cs_lunch_time": "PM 12:30 ~ PM 13:30 (주말 및 공휴일 휴무)",
+        "cs_fax_number": "1577-1110"
+    },
+    "point": {
+        "label_name": "마일리지",
+        "suffix": "마일리지",
+        "max_usable_amount": 100,
+        "max_usable_amount_type": "rate",
+        "min_usable_balance": 100,
+        "photo_review_point": 5000,
+        "review_point": 1000,
+        "usable_month": 12,
+        "grade_rules": [
+            {
+                "grade_id": 5,
+                "grade_name": "VIP",
+                "text_review_point": 500,
+                "photo_review_point": 1500
+            },
+            {
+                "grade_id": 4,
+                "grade_name": "GOLD",
+                "text_review_point": 500,
+                "photo_review_point": 1500
+            },
+            {
+                "grade_id": 3,
+                "grade_name": "SILVER",
+                "text_review_point": 500,
+                "photo_review_point": 1500
+            },
+            {
+                "grade_id": 2,
+                "grade_name": "BRONZE",
+                "text_review_point": 500,
+                "photo_review_point": 1500
+            },
+            {
+                "grade_id": 1,
+                "grade_name": "FAMILY",
+                "text_review_point": 1000,
+                "photo_review_point": 2000
+            }
+        ]
+    },
+    "paid_features": {
+        "reward": true,
+        "reward_policies": {
+            "delivery_delay_reward_policies": [
+                {
+                    "day": 3,
+                    "reward_rate": 3
+                },
+                {
+                    "day": 4,
+                    "reward_rate": 3
+                },
+                {
+                    "day": 5,
+                    "reward_rate": 3
+                },
+                {
+                    "day": 6,
+                    "reward_rate": 3
+                },
+                {
+                    "day": 7,
+                    "reward_rate": 4
+                }
+            ],
+            "soldout_cancel_reward_policies": [
+                {
+                    "day": 3,
+                    "reward_rate": 12
+                }
+            ],
+            "maximum_reward_price": 123123
+        },
+        "personalization": true,
+        "review_template": true,
+        "ranking": true,
+        "time_deal": true,
+        "cody_shot": true,
+        "showcase": true,
+        "raffle": true,
+        "joint_purchase": true,
+        "special_event": true,
+        "experience_review": true,
+        "social_login": true,
+        "usable_social_logins": [
+            "kakao",
+            "naver",
+            "payco",
+            "apple"
+        ],
+        "active_easypays": ["kakaopay", "payco", "naverpay", "toss"]
+    },
+    "grade_colors": [
+        {
+            "color_code": "#4e8e71",
+            "grade_order": 0
+        },
+        {
+            "color_code": "#e68362",
+            "grade_order": 1
+        },
+        {
+            "color_code": "#7cbacb",
+            "grade_order": 2
+        },
+        {
+            "color_code": "#e19c03",
+            "grade_order": 3
+        },
+        {
+            "color_code": "#9b3da1",
+            "grade_order": 4
+        }
+    ],
+    "seo": {
+        "title": "엠몬솔루셔어언",
+        "description": "종합쇼핑몰 구축은 엠몬솔루션",
+        "keywords": ["솔루션", "SI", "종합몰", "쇼핑몰", "종합쇼핑몰"] 
+    }
+}

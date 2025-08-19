@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="24" viewBox="0 0 29 24">
+  <g id="장바구니" transform="translate(486.887 -8228)">
+    <path id="사각형_" data-name="사각형 " d="M0,0H6.75L7,1.5H0Z" transform="translate(-486.887 8228)" fill="#4a4a4a"/>
+    <g id="패스_" data-name="패스 " transform="translate(-480.887 8231)" fill="none">
+      <path d="M0,0H23L19,13H3Z" stroke="none"/>
+      <path d="M 1.885580062866211 1.5 L 4.193271636962891 11.5 L 17.89213562011719 11.5 L 20.96905899047852 1.5 L 1.885580062866211 1.5 M 0 0 L 23 0 L 19 13 L 3 13 L 0 0 Z" stroke="none" fill="#4a4a4a"/>
+    </g>
+    <path id="패스_2" data-name="패스 " d="M-.559,0H1.115L4.807,16H3.218Z" transform="translate(-481.137 8228)" fill="#4a4a4a"/>
+    <g id="타원" transform="translate(-477.887 8246)" fill="none" stroke="#4a4a4a" stroke-width="1.5">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.25" fill="none"/>
+    </g>
+    <g id="타원-2" data-name="타원" transform="translate(-467.887 8246)" fill="none" stroke="#4a4a4a" stroke-width="1.5">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.25" fill="none"/>
+    </g>
+  </g>
+</svg>

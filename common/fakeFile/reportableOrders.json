@@ -1,0 +1,64 @@
+{
+    "paginator": {
+        "total": 4,
+        "per_page": 10,
+        "current_page": 1,
+        "data": [
+            {
+                "id": 1,
+                "order_id": "2205131610030037852",
+                "payed_at": "2022-05-13 16:10:23",
+                "order_status_label": "배송시작",
+                "seller_name": "셀러명",
+                "actual_paid_price": "27000",
+                "goods": {
+                    "id": 1,
+                    "name": "TEST54314357351",
+                    "thumbnail_url": "https://img.nstationmall.com/dev//goods/000/000/004/573/1.jpg?updated_at=",
+                    "brand_name": "엠몬 브랜드3",
+                    "option_name": "black"
+                }      
+            },
+            {
+                "id": 2,
+                "order_id": "2205131610030037852",
+                "payed_at": "2022-05-13 16:10:23",
+                "order_status_label": "배송중",
+                "seller_name": "셀러명",
+                "actual_paid_price": "27000",
+                "goods": {
+                    "id": 1,
+                    "name": "TEST54314357351",
+                    "thumbnail_url": "https://img.nstationmall.com/dev//goods/000/000/004/573/1.jpg?updated_at=",
+                    "brand_name": "엠몬 브랜드3",
+                    "option_name": "black"
+                }      
+            }
+        ]
+    },
+    "paginator_back": {
+        "total": 4,
+        "per_page": 10,
+        "current_page": 1,
+        "data": [
+            {
+                "id": 1,
+                "order_id": "2205131610030037852",
+                "payed_at": "2022-05-13 16:10:23",
+                "order_status_label": "배송시작",
+                "seller_name": "셀러명",
+                "actual_paid_price": "27000",
+                "goods": {
+                    "id": 1,
+                    "name": "TEST54314357351",
+                    "thumbnail_url": "https://img.nstationmall.com/dev//goods/000/000/004/573/1.jpg?updated_at=",
+                    "brand_name": "엠몬 브랜드3",
+                    "option_name": "black"
+                },
+                "process_status_label": "신고접수|처리완료|처리불가",
+                "reported_at": "2022-05-13 16:10:23",
+                "processed_at": "2022-05-13 16:10:23"
+            }
+        ]
+    }
+}

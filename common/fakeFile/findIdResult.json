@@ -1,0 +1,10 @@
+{
+    "id_find_results": [
+        {
+            "masked_id" : "abc****@naver.com",
+            "regist_type" : "naver"
+        }
+    ],
+    "user_name": "test",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiIxMjM0NTY3ODkwIiwiZXhwIjoiMjAyMjEyMTIiLCJpYXQiOjE2NTE1NTc4NzMwMDB9.DyABXL5qGeUAPedmR1O3mAz5pGSdb3Jvts6lrini3sI"
+}

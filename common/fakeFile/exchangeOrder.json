@@ -1,0 +1,938 @@
+{
+    "switch_returnable_order": {
+        "order_id": "2206141341058520082",
+        "ordered_at": "2022-03-22T14:25:11.000000Z",
+        "payment_method_label": "신용카드",
+        "shipping_address": {
+            "id": 1,
+            "name": "엠몬",
+            "tel": "020-9320-1810",
+            "zip_code": "13487",
+            "base_address": "경기도 성남시 분당구 판교로 242(삼평동)",
+            "detail_address": "PDC C동 401호"
+        },
+        "packs": [
+            {
+                "shipping_rule_id": 11,
+                "paid_shipping_price": 3000,
+                "order_items": [
+                    {
+                        "id": 5489,
+                        "exchange_target_id": 4,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 7000,
+                        "point_used": 1000,
+                        "used_coupon_title": "20% 할인 쿠폰",
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        }
+                    },
+                    {
+                        "id": 2222,
+                        "exchange_target_id": 5,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 8000,
+                        "point_used": 1000,
+                        "used_coupon_title": "1,000원 할인쿠폰",
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        }
+                    },
+                    {
+                        "id": 2223,
+                        "exchange_target_id": 6,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 9000,
+                        "point_used": 1000,
+                        "seller_name": "셀러12",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        }
+                    },
+                    {
+                        "id": 2231,
+                        "exchange_target_id": 7,
+                        "order_status_label": "결제완료",
+                        "paid_price": 20000,
+                        "point_used": 0,
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                            "option_name": "YELLOW - L",
+                            "is_soldout": false,
+                            "option_id": 1338
+                        }
+                    },
+                    {
+                        "id": 2241,
+                        "exchange_target_id": 8,
+                        "order_status_label": "배송 중",
+                        "paid_price": 10000,
+                        "point_used": 0,
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_3.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": false,
+                            "option_id": 1330
+                        }
+                    },
+                    {
+                        "id": 2242,
+                        "exchange_target_id": 9,
+                        "order_status_label": "배송 중",
+                        "paid_price": 10000,
+                        "point_used": 0,
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_3.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": false,
+                            "option_id": 1330
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "exchangeable_order": {
+        "order_id": "2206141341058520082",
+        "ordered_at": "2022-03-22T14:25:11.000000Z",
+        "payment_method_label": "신용카드",
+        "shipping_address": {
+            "id": 1,
+            "name": "엠몬",
+            "tel": "020-9320-1810",
+            "zip_code": "13487",
+            "base_address": "경기도 성남시 분당구 판교로 242(삼평동)",
+            "detail_address": "PDC C동 401호"
+        },
+        "packs": [
+            {
+                "shipping_rule_id": 11,
+                "paid_shipping_price": 3000,
+                "order_items": [
+                    {
+                        "id": 5639,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 7000,
+                        "point_used": 1000,
+                        "used_coupon_title": "20% 할인 쿠폰",
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1334, 
+                                "label1": "MINT",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1335, 
+                                "label1": "MINT",
+                                "label2": "M",    
+                                "stock": 66
+                            },
+                            {
+                                "id": 1336, 
+                                "label1": "MINT",
+                                "label2": "L",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "MINT",
+                                "label2": "XL",    
+                                "stock": 55
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5640,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 8000,
+                        "point_used": 1000,
+                        "used_coupon_title": "1,000원 할인쿠폰",
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1334, 
+                                "label1": "MINT",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1335, 
+                                "label1": "MINT",
+                                "label2": "M",    
+                                "stock": 66
+                            },
+                            {
+                                "id": 1336, 
+                                "label1": "MINT",
+                                "label2": "L",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "MINT",
+                                "label2": "XL",    
+                                "stock": 55
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5641,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 9000,
+                        "point_used": 1000,
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1334, 
+                                "label1": "MINT",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1335, 
+                                "label1": "MINT",
+                                "label2": "M",    
+                                "stock": 66
+                            },
+                            {
+                                "id": 1336, 
+                                "label1": "MINT",
+                                "label2": "L",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "MINT",
+                                "label2": "XL",    
+                                "stock": 55
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2231,
+                        "order_status_label": "결제완료",
+                        "paid_price": 20000,
+                        "point_used": 0,
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                            "option_name": "YELLOW - L",
+                            "is_soldout": false,
+                            "option_id": 1338
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1336, 
+                                "label1": "YELLOW",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "YELLOW",
+                                "label2": "M",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1338, 
+                                "label1": "YELLOW",
+                                "label2": "L",    
+                                "stock": 10
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "shipping_rule_id": 12,
+                "paid_shipping_price": 0,
+                "order_items": [
+                    {
+                        "id": 1639,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 7000,
+                        "point_used": 1000,
+                        "used_coupon_title": "20% 할인 쿠폰",
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1334, 
+                                "label1": "MINT",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1335, 
+                                "label1": "MINT",
+                                "label2": "M",    
+                                "stock": 66
+                            },
+                            {
+                                "id": 1336, 
+                                "label1": "MINT",
+                                "label2": "L",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "MINT",
+                                "label2": "XL",    
+                                "stock": 55
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1640,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 8000,
+                        "point_used": 1000,
+                        "used_coupon_title": "1,000원 할인쿠폰",
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1334, 
+                                "label1": "MINT",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1335, 
+                                "label1": "MINT",
+                                "label2": "M",    
+                                "stock": 66
+                            },
+                            {
+                                "id": 1336, 
+                                "label1": "MINT",
+                                "label2": "L",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "MINT",
+                                "label2": "XL",    
+                                "stock": 55
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1641,
+                        "order_status_label": "배송 준비중",
+                        "order_status_code": "240",
+                        "paid_price": 9000,
+                        "point_used": 1000,
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                            "option_name": "MINT - M",
+                            "is_soldout": true,
+                            "option_id": 1335
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1334, 
+                                "label1": "MINT",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1335, 
+                                "label1": "MINT",
+                                "label2": "M",    
+                                "stock": 66
+                            },
+                            {
+                                "id": 1336, 
+                                "label1": "MINT",
+                                "label2": "L",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "MINT",
+                                "label2": "XL",    
+                                "stock": 55
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1231,
+                        "order_status_label": "결제완료",
+                        "paid_price": 20000,
+                        "point_used": 0,
+                        "seller_name": "셀러11",
+                        "goods": {
+                            "id": 1334,
+                            "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                            "brand_name": "M.Mon 엠몬스타",
+                            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                            "option_name": "YELLOW - L",
+                            "is_soldout": false,
+                            "option_id": 1338
+                        },
+                        "exchangeable_options": [
+                            {
+                                "id": 1336, 
+                                "label1": "YELLOW",
+                                "label2": "S",    
+                                "stock": 3
+                            },
+                            {
+                                "id": 1337, 
+                                "label1": "YELLOW",
+                                "label2": "M",    
+                                "stock": 0
+                            },
+                            {
+                                "id": 1338, 
+                                "label1": "YELLOW",
+                                "label2": "L",    
+                                "stock": 10
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "available_retrieve_methods": [
+        {
+            "code": 10,
+            "label": "고객 직접 회수",
+            "is_retrieve_by_orderer": true,
+            "is_auto_retrieve": false
+        },
+        {
+            "code": 20,
+            "label": "자동회수",
+            "is_retrieve_by_orderer": false,
+            "is_auto_retrieve": true
+        }
+    ],
+    "additional_payments": {
+        "total_price": 2000,
+        "calculate_details": [
+            {
+                "label": "일반배송비",
+                "amount": 2000
+            },
+            {
+                "label": "교환 배송비",
+                "amount": 0
+            }
+        ]
+    },
+    "chosen_exchange_reason": {
+        "code": "51002",
+        "label": "상품에 문제가 있음",
+        "eng_label": "issue_with_goods",
+        "detail": "상품에 문제가 있어욥"
+    },
+    "paginator": {
+        "total": 10,
+        "current_page": 1,
+        "per_page": 10,
+        "data": [
+            {
+                "order_id": "2207040934094296362",
+                "ordered_at": "2022-03-22T14:25:11.000000Z",
+                "packs": [
+                    {
+                        "seller": {
+                            "id": 27,
+                            "name": "셀러 13",
+                            "tel": "02093201810"
+                        },
+                        "shipping": {
+                            "rule_id": 11,
+                            "paid_price": 2500
+                        },
+                        "order_items": [
+                            {
+                                "id": 2221,
+                                "order_status_label": "교환 신청",
+                                "paid_price": 7000,
+                                "exchanged_option_name": "블랙 FREE",
+                                "exchange_cancelable": true,
+                                "to_return_switchable": false,
+                                "return_delivery_trackable": true,
+                                "return_delivery_tracking_url": "https://www.naver.com",
+                                "goods": {
+                                    "id": 1334,
+                                    "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                                    "brand_name": "엠몬스타",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                                    "option_name": "YELLOW - M"
+                                }
+                            },
+                            {
+                                "id": 2222,
+                                "order_status_label": "교환 신청",
+                                "paid_price": 7000,
+                                "exchanged_option_name": "블랙 FREE",
+                                "exchange_cancelable": true,
+                                "to_return_switchable": false,
+                                "return_delivery_trackable": true,
+                                "return_delivery_tracking_url": "",
+                                "goods": {
+                                    "id": 1334,
+                                    "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                                    "brand_name": "M.Mon 엠몬스타",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                                    "option_name": "YELLOW - L"
+                                }
+                            },
+                            {
+                                "id": 2223,
+                                "order_status_label": "교환 신청",
+                                "paid_price": 7000,
+                                "exchanged_option_name": "블랙 FREE",
+                                "exchange_cancelable": true,
+                                "to_return_switchable": false,
+                                "return_delivery_trackable": true,
+                                "return_delivery_tracking_url": "",
+                                "goods": {
+                                    "id": 1334,
+                                    "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                                    "brand_name": "M.Mon 엠몬스타",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                                    "option_name": "MINT - M"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "seller": {
+                            "id": 9,
+                            "name": "셀러 14",
+                            "tel": "02093201810"
+                        },
+                        "shipping": {
+                            "rule_id": 12,
+                            "paid_price": 0
+                        },
+                        "order_items": [
+                            {
+                                "id": 2224,
+                                "order_status_label": "교환 승인",
+                                "paid_price": 8000,
+                                "exchanged_option_name": "화이트 FREE",
+                                "exchange_cancelable": false,
+                                "to_return_switchable": false,
+                                "return_delivery_trackable": true,
+                                "return_delivery_tracking_url": "",
+                                "goods": {
+                                    "id": 1334,
+                                    "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                                    "brand_name": "엠몬스타",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_3.png",
+                                    "option_name": "MINT - M"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "order_id": "2207040928340804562",
+                "ordered_at": "2022-03-26T14:25:11.000000Z",
+                "packs": [
+                    {
+                        "seller": {
+                            "id": 48,
+                            "name": "셀러 15",
+                            "tel": "02093201333"
+                        },
+                        "shipping": {
+                            "rule_id": 15,
+                            "paid_price": 0
+                        },
+                        "order_items": [
+                            {
+                                "id": 2225,
+                                "order_status_label": "상품 도착",
+                                "paid_price": 8000,
+                                "exchanged_option_name": "화이트 FREE",
+                                "exchange_cancelable": false,
+                                "to_return_switchable": true,
+                                "return_delivery_trackable": true,
+                                "return_delivery_tracking_url": "www.naver.com",
+                                "goods": {
+                                    "id": 1334,
+                                    "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                                    "brand_name": "엠몬스타",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_3.png",
+                                    "option_name": "MINT - M"
+                                }
+                            },
+                            {
+                                "id": 2226,
+                                "order_status_label": "교환 완료",
+                                "paid_price": 8000,
+                                "exchanged_option_name": "화이트 FREE",
+                                "exchange_cancelable": false,
+                                "to_return_switchable": false,
+                                "return_delivery_trackable": true,
+                                "return_delivery_tracking_url": "",
+                                "goods": {
+                                    "id": 1335,
+                                    "name": "MF 2491 버몬트 천연소가죽 로우 스니커즈",
+                                    "brand_name": "엠몬스타",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                                    "option_name": "화이트 FREE"
+                                }
+                            },
+                            {
+                                "id": 2227,
+                                "order_status_label": "교환 완료",
+                                "paid_price": 8000,
+                                "exchanged_option_name": "화이트 FREE",
+                                "exchange_cancelable": false,
+                                "to_return_switchable": false,
+                                "return_delivery_trackable": true,
+                                "return_delivery_tracking_url": "",
+                                "goods": {
+                                    "id": 1335,
+                                    "name": "MF 2491 버몬트 천연소가죽 로우 스니커즈",
+                                    "brand_name": "엠몬스타",
+                                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                                    "option_name": "블랙 FREE"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "refund_info": {
+        
+        "total_payed_price": 20000,
+        "refund_price": 18000,
+        "refund_point": 2000,
+        "calculate_details": [
+            {
+                "label": "면제 배송비",
+                "amount": 2500,
+                "isSubtracted": true
+            },
+            {
+                "label": "반품 배송비",
+                "amount": 2500,
+                "isSubtracted": false
+            }
+        ]
+    },
+    "exchange_orders_v2": [
+        {
+            "order_id": "2207040934094296362",
+            "exchange_id": "2207040934094296362",
+            "ordered_at": "2022-03-22T14:25:11.000000Z",
+            "packs": [
+                {
+                    "seller": {
+                        "id": 27,
+                        "name": "셀러 13",
+                        "tel": "02093201810"
+                    },
+                    "shipping": {
+                        "rule_id": 11,
+                        "paid_price": 2500
+                    },
+                    "order_items": [
+                        {
+                            "id": 2221,
+                            "exchange_target_id" : 1234,
+                            "order_status_label": "교환 신청",
+                            "paid_price": 7000,
+                            "exchanged_option_name": "블랙 FREE",
+                            "exchange_cancelable": true,
+                            "to_return_switchable": false,
+                            "return_delivery_trackable": true,
+                            "return_delivery_tracking_url": "https://www.naver.com",
+                            "goods": {
+                                "id": 1334,
+                                "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                                "brand_name": "엠몬스타",
+                                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                                "option_name": "YELLOW - M"
+                            }
+                        },
+                        {
+                            "id": 2222,
+                            "exchange_target_id" : 1235,
+                            "order_status_label": "교환 신청",
+                            "paid_price": 7000,
+                            "exchanged_option_name": "블랙 FREE",
+                            "exchange_cancelable": true,
+                            "to_return_switchable": false,
+                            "return_delivery_trackable": true,
+                            "return_delivery_tracking_url": "",
+                            "goods": {
+                                "id": 1334,
+                                "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                                "brand_name": "M.Mon 엠몬스타",
+                                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                                "option_name": "YELLOW - L"
+                            }
+                        },
+                        {
+                            "id": 2223,
+                            "exchange_target_id" : 1237,
+                            "order_status_label": "교환 신청",
+                            "paid_price": 7000,
+                            "exchanged_option_name": "블랙 FREE",
+                            "exchange_cancelable": true,
+                            "to_return_switchable": false,
+                            "return_delivery_trackable": true,
+                            "return_delivery_tracking_url": "",
+                            "goods": {
+                                "id": 1334,
+                                "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                                "brand_name": "M.Mon 엠몬스타",
+                                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                                "option_name": "MINT - M"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "seller": {
+                        "id": 9,
+                        "name": "셀러 14",
+                        "tel": "02093201810"
+                    },
+                    "shipping": {
+                        "rule_id": 12,
+                        "paid_price": 0
+                    },
+                    "order_items": [
+                        {
+                            "id": 2224,
+                            "exchange_target_id" : 1239,
+                            "order_status_label": "교환 승인",
+                            "paid_price": 8000,
+                            "exchanged_option_name": "화이트 FREE",
+                            "exchange_cancelable": false,
+                            "to_return_switchable": false,
+                            "return_delivery_trackable": true,
+                            "return_delivery_tracking_url": "",
+                            "goods": {
+                                "id": 1334,
+                                "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                                "brand_name": "엠몬스타",
+                                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_3.png",
+                                "option_name": "MINT - M"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "order_id": "2207040928340804562",
+            "exchange_id": "2207040934094296262",
+            "ordered_at": "2022-03-26T14:25:11.000000Z",
+            "packs": [
+                {
+                    "seller": {
+                        "id": 48,
+                        "name": "셀러 15",
+                        "tel": "02093201333"
+                    },
+                    "shipping": {
+                        "rule_id": 15,
+                        "paid_price": 0
+                    },
+                    "order_items": [
+                        {
+                            "id": 2225,
+                            "order_status_label": "상품 도착",
+                            "paid_price": 8000,
+                            "exchanged_option_name": "화이트 FREE",
+                            "exchange_cancelable": false,
+                            "to_return_switchable": true,
+                            "return_delivery_trackable": true,
+                            "return_delivery_tracking_url": "www.naver.com",
+                            "goods": {
+                                "id": 1334,
+                                "name": "N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠 N212WTS840 여성 드라이실 중힙기장 반팔 티셔츠",
+                                "brand_name": "엠몬스타",
+                                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_3.png",
+                                "option_name": "MINT - M"
+                            }
+                        },
+                        {
+                            "id": 2226,
+                            "order_status_label": "교환 완료",
+                            "paid_price": 8000,
+                            "exchanged_option_name": "화이트 FREE",
+                            "exchange_cancelable": false,
+                            "to_return_switchable": false,
+                            "return_delivery_trackable": true,
+                            "return_delivery_tracking_url": "",
+                            "goods": {
+                                "id": 1335,
+                                "name": "MF 2491 버몬트 천연소가죽 로우 스니커즈",
+                                "brand_name": "엠몬스타",
+                                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                                "option_name": "화이트 FREE"
+                            }
+                        },
+                        {
+                            "id": 2227,
+                            "order_status_label": "교환 완료",
+                            "paid_price": 8000,
+                            "exchanged_option_name": "화이트 FREE",
+                            "exchange_cancelable": false,
+                            "to_return_switchable": false,
+                            "return_delivery_trackable": true,
+                            "return_delivery_tracking_url": "",
+                            "goods": {
+                                "id": 1335,
+                                "name": "MF 2491 버몬트 천연소가죽 로우 스니커즈",
+                                "brand_name": "엠몬스타",
+                                "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_4.png",
+                                "option_name": "블랙 FREE"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "exchange_orders": [
+        {
+            "order_id": "2207040934094296362",
+            "exchange_id": "2207040934094296362",
+            "ordered_at": "2022-03-22T14:25:11.000000Z",
+            "packs": [
+                {
+                    "sellers": [
+                        {
+                            "id": 27,
+                            "name": "셀러 13",
+                            "tel": "02093201810",
+                            "order_items": [
+                                {
+                                    "id": 2221,
+                                    "exchange_target_id": 1235,
+                                    "order_status_label": "교환 신청",
+                                    "paid_price": 7000,
+                                    "exchanged_option_name": "블랙 FREE",
+                                    "exchange_cancelable": false,
+                                    "to_return_switchable": false,
+                                    "return_delivery_trackable": false,
+                                    "return_delivery_tracking_url": null,
+                                    "point_used": 1200,
+                                    "goods": {
+                                        "id": 1334,
+                                        "name": "N212UTS510 유니 타이다이 그래픽 반팔 티셔츠 GRAPE",
+                                        "brand_name": "엠몬스타",
+                                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_1.png",
+                                        "option_name": "YELLOW - M"
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "shipping_rule_id": 11,
+                    "paid_shipping_price": 3000
+                }
+            ]
+        }
+    ]
+}

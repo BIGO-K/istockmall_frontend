@@ -1,0 +1,10 @@
+{
+    "grade_up_condition": {
+        "order_amount": 423000,
+        "order_count": 4,
+        "grade_up_order_amount_condition": 1000000,
+        "grade_up_order_count_condition": 10,
+        "next_grade_name": "GOLD",
+        "is_top_level": false
+    }
+}

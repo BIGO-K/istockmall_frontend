@@ -1,0 +1,41 @@
+{
+    "qna": {
+        "id": 1,
+        "title": "수정중이오",
+        "contents": "허허\r\n수정중이오@@",
+        "type_label": "반품?",
+        "sub_type_label": "교환",
+        "order_id": "2305241053249933312",
+        "ordered_at": "2023-05-24T01:54:08.000000Z",
+        "goods_list": [
+            {
+                "id": 43010,
+                "name": "R의 말이Gold temporibus eum",
+                "option_name": "Navy / M ",
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/04/30/10/1.jpg"
+            },
+            {
+                "id": 43010,
+                "name": "R의 말이Gold temporibus eum",
+                "option_name": "DarkKhaki / L",
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/04/30/10/1.jpg"
+            },
+            {
+                "id": 43010,
+                "name": "R의 말이Gold temporibus eum",
+                "option_name": "DarkKhaki / M",
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/04/30/10/1.jpg"
+            }
+        ]
+    },
+    "qna1": {
+        "id": 1,
+        "title": "수정중이오",
+        "contents": "허허\r\n수정중이오@@",
+        "type_label": "반품?",
+        "sub_type_label": "교환",
+        "order_id": "",
+        "ordered_at": "2023-05-24T01:54:08.000000Z",
+        "goods_list": []
+    }
+}

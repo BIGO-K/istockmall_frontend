@@ -1,0 +1,46 @@
+{
+    "partnership_inquiry_types": [
+        {
+            "label": "제휴 및 입점문의",
+            "code": 10,
+            "description": "M.Mon Solution 입점 및 상품 판매 관련 문의",
+            "category_required": true
+        },
+        {
+            "label": "서비스 및 광고문의",
+            "code": 20,
+            "description": "광고/서비스 기술/ 프로모션 제휴 제안 등",
+            "category_required": false
+        }
+    ],
+    "partnership_inquiry_categories": [
+        {
+            "name": "여성패션",
+            "code": 1
+        },
+        {
+            "name": "남성패션",
+            "code": 2
+        },
+        {
+            "name": "언더웨어",
+            "code": 3
+        },
+        {
+            "name": "캐쥬얼 (진/데님, 스트릿/디자이너)",
+            "code": 4
+        },
+        {
+            "name": "잡화 (슈즈, 명품, 라이브스타일, 뷰티)",
+            "code": 5
+        },
+        {
+            "name": "키즈 (베이비, 주니어, 아동용품/신발)",
+            "code": 6
+        },
+        {
+            "name": "아웃도어 (골프, 스포츠, 캠핑/낚시, 레저)",
+            "code": 7
+        }
+    ]
+}

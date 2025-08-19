@@ -1,0 +1,485 @@
+{
+  "containers": [
+    {
+      "id": 1,
+      "blocks": [
+        {
+          "id": 1,
+          "mui_code": "b_c=w0Xh8_s1_side_1",
+          "title_1": "메인 타이틀",
+          "title_2": null,
+          "link": "b_c=w0Xh8_s1_side_1",
+          "design_title_class_name": null,
+          "tabs": null,
+          "banner_partition": {
+            "banners": [
+              {
+                "id": 2,
+                "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/lego/mainpage/1/banner/2/pc.jpg?ut=1666230199",
+                "alt": "1",
+                "link": null,
+                "text_1": "지금 주목해야 할",
+                "text_2": "라이징 뷰티 브랜드",
+                "text_3": "단독 25% 할인쿠폰",
+                "text_4": null,
+                "text_color": "#ffffff",
+                "goods_group": null
+              },
+              {
+                "id": 3,
+                "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/lego/mainpage/1/banner/3/pc.jpg?ut=1666230371",
+                "alt": "2",
+                "link": null,
+                "text_1": "지금 '나다움'으로",
+                "text_2": "빛날 수 있는 디자인",
+                "text_3": "10% 할인쿠폰 + 무료배송",
+                "text_4": null,
+                "text_color": "#000000",
+                "goods_group": null
+              },
+              {
+                "id": 4,
+                "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/lego/mainpage/1/banner/4/pc.jpg?ut=1666230519",
+                "alt": "3",
+                "link": null,
+                "text_1": "'나다움'으로 빛날 수 있는",
+                "text_2": "10% 할인쿠폰 + 무료배송",
+                "text_3": null,
+                "text_4": null,
+                "text_color": "#000000",
+                "goods_group": null
+              },
+              {
+                "id": 5,
+                "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/lego/mainpage/1/banner/5/pc.jpg?ut=1666230580",
+                "alt": "4",
+                "link": null,
+                "text_1": "라이징 뷰티 브랜드",
+                "text_2": null,
+                "text_3": null,
+                "text_4": null,
+                "text_color": "#000000",
+                "goods_group": null
+              }
+            ],
+            "current_page": 1,
+            "total": 4,
+            "per_page": 4
+          },
+          "goods_group": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "blocks": [
+        {
+          "id": 2,
+          "mui_code": "bp_ns=w12Xh7_s4",
+          "title_1": null,
+          "title_2": null,
+          "link": "bp_ns=w12Xh7_s4",
+          "design_title_class_name": null,
+          "tabs": null,
+          "banner_partition": {
+            "banners": [
+              {
+                "id": 1,
+                "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/lego/mainpage/2/banner/1/pc.jpg?ut=1665730458",
+                "alt": "ggg",
+                "link": null,
+                "text_1": "zz",
+                "text_2": "aa",
+                "text_3": null,
+                "text_4": null,
+                "text_color": null,
+                "goods_group": null
+              }
+            ],
+            "current_page": 1,
+            "total": 1,
+            "per_page": 1
+          },
+          "goods_group": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "blocks": [
+        {
+          "id": 4,
+          "mui_code": "p_n=w12Xh6_s4",
+          "title_1": null,
+          "title_2": null,
+          "link": "p_n=w12Xh6_s4",
+          "design_title_class_name": null,
+          "tabs": null,
+          "banner_partition": null,
+          "goods_group": {
+            "id": 2,
+            "text_1": "1",
+            "text_2": "2",
+            "text_3": null,
+            "goods_list": [
+              {
+                "id": 58915,
+                "name": "JOINT_PURCHASE_02",
+                "price": 200000,
+                "headline": null,
+                "base_discounted_price": 100000,
+                "sale_rate": 50,
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/15/1.jpg?ut=1665573533",
+                "mouse_over_image_url": "",
+                "stock": 1,
+                "is_only_adult": true,
+                "is_soldout": false,
+                "brand_id": 53,
+                "brand_name": "ROME",
+                "icon": {
+                  "label": "CUSTOM",
+                  "background_color_code": "#4DD0E2",
+                  "font_color_code": "#FFFFFF"
+                },
+                "badges": [
+                  "무료배송",
+                  "쿠폰할인"
+                ],
+                "wish_count": 0,
+                "review_count": 0,
+                "review_score_average": 0,
+                "is_use_stock_notify": false
+              }
+            ],
+            "total": 1,
+            "current_page": 1,
+            "per_page": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "blocks": [
+        {
+          "id": 6,
+          "mui_code": "tb_sn=w12Xh18_s6",
+          "title_1": null,
+          "title_2": null,
+          "link": "tb_sn=w12Xh18_s6",
+          "design_title_class_name": null,
+          "tabs": [
+            {
+              "id": 3,
+              "title": "탭배너1",
+              "banner_partition": null,
+              "goods_group": null
+            },
+            {
+              "id": 5,
+              "title": "탭재너2",
+              "banner_partition": {
+                "banners": [
+                  {
+                    "id": 6,
+                    "image_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/exhibit/lego/mainpage/6/banner/6/pc.jpg?ut=1666575912",
+                    "alt": "1",
+                    "link": null,
+                    "text_1": null,
+                    "text_2": null,
+                    "text_3": null,
+                    "text_4": null,
+                    "text_color": null,
+                    "goods_group": null
+                  }
+                ],
+                "current_page": 1,
+                "total": 1,
+                "per_page": 1
+              },
+              "goods_group": null
+            }
+          ],
+          "banner_partition": null,
+          "goods_group": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "blocks": [
+        {
+          "id": 7,
+          "mui_code": "tp_nc=w12Xh7_s5_2",
+          "title_1": null,
+          "title_2": null,
+          "link": "tp_nc=w12Xh7_s5_2",
+          "design_title_class_name": null,
+          "tabs": [
+            {
+              "id": 1,
+              "title": "탭 메뉴1",
+              "banner_partition": null,
+              "goods_group": {
+                "id": 4,
+                "text_1": null,
+                "text_2": null,
+                "text_3": null,
+                "goods_list": [
+                  {
+                    "id": 58915,
+                    "name": "JOINT_PURCHASE_02",
+                    "price": 200000,
+                    "headline": null,
+                    "base_discounted_price": 100000,
+                    "sale_rate": 50,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/15/1.jpg?ut=1665573533",
+                    "mouse_over_image_url": "",
+                    "stock": 1,
+                    "is_only_adult": true,
+                    "is_soldout": false,
+                    "brand_id": 53,
+                    "brand_name": "ROME",
+                    "icon": {
+                      "label": "CUSTOM",
+                      "background_color_code": "#4DD0E2",
+                      "font_color_code": "#FFFFFF"
+                    },
+                    "badges": [
+                      "무료배송",
+                      "쿠폰할인"
+                    ],
+                    "wish_count": 0,
+                    "review_count": 0,
+                    "review_score_average": 0,
+                    "is_use_stock_notify": false
+                  }
+                ],
+                "total": 1,
+                "current_page": 1,
+                "per_page": 5
+              }
+            },
+            {
+              "id": 2,
+              "title": "탭 메뉴2",
+              "banner_partition": null,
+              "goods_group": {
+                "id": 5,
+                "text_1": null,
+                "text_2": null,
+                "text_3": null,
+                "goods_list": [
+                  {
+                    "id": 58915,
+                    "name": "JOINT_PURCHASE_02",
+                    "price": 200000,
+                    "headline": null,
+                    "base_discounted_price": 100000,
+                    "sale_rate": 50,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/15/1.jpg?ut=1665573533",
+                    "mouse_over_image_url": "",
+                    "stock": 1,
+                    "is_only_adult": true,
+                    "is_soldout": false,
+                    "brand_id": 53,
+                    "brand_name": "ROME",
+                    "icon": {
+                      "label": "CUSTOM",
+                      "background_color_code": "#4DD0E2",
+                      "font_color_code": "#FFFFFF"
+                    },
+                    "badges": [
+                      "무료배송",
+                      "쿠폰할인"
+                    ],
+                    "wish_count": 0,
+                    "review_count": 0,
+                    "review_score_average": 0,
+                    "is_use_stock_notify": false
+                  }
+                ],
+                "total": 1,
+                "current_page": 1,
+                "per_page": 5
+              }
+            },
+            {
+              "id": 4,
+              "title": "탭 메뉴3",
+              "banner_partition": null,
+              "goods_group": {
+                "id": 9,
+                "text_1": null,
+                "text_2": null,
+                "text_3": null,
+                "goods_list": [
+                  {
+                    "id": 58915,
+                    "name": "JOINT_PURCHASE_02",
+                    "price": 200000,
+                    "headline": null,
+                    "base_discounted_price": 100000,
+                    "sale_rate": 50,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/15/1.jpg?ut=1665573533",
+                    "mouse_over_image_url": "",
+                    "stock": 1,
+                    "is_only_adult": true,
+                    "is_soldout": false,
+                    "brand_id": 53,
+                    "brand_name": "ROME",
+                    "icon": {
+                      "label": "CUSTOM",
+                      "background_color_code": "#4DD0E2",
+                      "font_color_code": "#FFFFFF"
+                    },
+                    "badges": [
+                      "무료배송",
+                      "쿠폰할인"
+                    ],
+                    "wish_count": 0,
+                    "review_count": 0,
+                    "review_score_average": 0,
+                    "is_use_stock_notify": false
+                  }
+                ],
+                "total": 1,
+                "current_page": 1,
+                "per_page": 5
+              }
+            }
+          ],
+          "banner_partition": null,
+          "goods_group": null
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "blocks": [
+        {
+          "id": 20,
+          "mui_code": "p_n=w12Xh7_s4_pagination",
+          "title_1": null,
+          "title_2": null,
+          "link": "p_n=w12Xh7_s4_pagination",
+          "design_title_class_name": null,
+          "tabs": null,
+          "banner_partition": null,
+          "goods_group": {
+            "id": 10,
+            "text_1": null,
+            "text_2": null,
+            "text_3": null,
+            "goods_list": [
+              {
+                "id": 58921,
+                "name": "API 테스트 진열상품명4-1",
+                "price": 149000,
+                "headline": null,
+                "base_discounted_price": 99000,
+                "sale_rate": 34,
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/21/list_1.jpg?ut=1666601280",
+                "mouse_over_image_url": "",
+                "stock": 34,
+                "is_only_adult": false,
+                "is_soldout": false,
+                "brand_id": 40,
+                "brand_name": "수빈수산",
+                "icon": null,
+                "badges": [
+                  "무료배송",
+                  "쿠폰할인"
+                ],
+                "wish_count": 0,
+                "review_count": 0,
+                "review_score_average": 0,
+                "is_use_stock_notify": false
+              },
+              {
+                "id": 58915,
+                "name": "JOINT_PURCHASE_02",
+                "price": 200000,
+                "headline": null,
+                "base_discounted_price": 100000,
+                "sale_rate": 50,
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/15/1.jpg?ut=1665573533",
+                "mouse_over_image_url": "",
+                "stock": 1,
+                "is_only_adult": true,
+                "is_soldout": false,
+                "brand_id": 53,
+                "brand_name": "ROME",
+                "icon": {
+                  "label": "CUSTOM",
+                  "background_color_code": "#4DD0E2",
+                  "font_color_code": "#FFFFFF"
+                },
+                "badges": [
+                  "무료배송",
+                  "쿠폰할인"
+                ],
+                "wish_count": 0,
+                "review_count": 0,
+                "review_score_average": 0,
+                "is_use_stock_notify": false
+              },
+              {
+                "id": 58908,
+                "name": "공동구매타입 상품",
+                "price": 200000,
+                "headline": null,
+                "base_discounted_price": 100000,
+                "sale_rate": 50,
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/08/1.jpg?ut=1664414372",
+                "mouse_over_image_url": "",
+                "stock": 150,
+                "is_only_adult": false,
+                "is_soldout": false,
+                "brand_id": 53,
+                "brand_name": "ROME",
+                "icon": {
+                  "label": "CUSTOM",
+                  "background_color_code": "#4DD0E2",
+                  "font_color_code": "#FFFFFF"
+                },
+                "badges": [
+                  "무료배송"
+                ],
+                "wish_count": 0,
+                "review_count": 0,
+                "review_score_average": 0,
+                "is_use_stock_notify": false
+              },
+              {
+                "id": 58907,
+                "name": "단일옵션테스트",
+                "price": 10000,
+                "headline": null,
+                "base_discounted_price": 8000,
+                "sale_rate": 20,
+                "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/89/07/1.jpg?ut=1666663516",
+                "mouse_over_image_url": "",
+                "stock": 4,
+                "is_only_adult": false,
+                "is_soldout": false,
+                "brand_id": 57,
+                "brand_name": "test",
+                "icon": null,
+                "badges": [],
+                "wish_count": 0,
+                "review_count": 0,
+                "review_score_average": 0,
+                "is_use_stock_notify": false
+              }
+            ],
+            "total": 86,
+            "current_page": 1,
+            "per_page": 4,
+            "paging_url": "https://mmon-v2-backend.mmonstar.co.kr/api/v1/goods/common?category_code=003000000&brand_ids[]=&fit_sizes[]=&shoes_sizes[]=&colors[]=&max_price=0&min_price=0&review_stars[]=&only_free_delivery=false&only_sale=false&except_soldout=false&sorting=selling&"
+          }
+        }
+      ]
+    }
+  ]
+}

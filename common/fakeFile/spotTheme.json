@@ -1,0 +1,289 @@
+ {
+        "template_list": [
+            {
+                "id": 1,
+                "type": "A",
+                "banner_image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/mobile/image/_sample/spot_theme_banner_1.jpg",
+                "banner_image_alt": "템플릿 타입 A",
+                "main_text1": "",
+                "main_text2": "",
+                "sub_text1": "",
+                "sub_text2": "",
+                "url": "",
+                "goods_list": []
+            },
+            {
+                "id": 2,
+                "type": "B",
+                "banner_image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/mobile/image/_sample/spot_theme_banner_2.jpg",
+                "banner_image_alt": "템플릿 타입 B",
+                "main_text1": "날이 좋아 떠나고 싶은 요즘",
+                "main_text2": "카메라로 담는 세상",
+                "sub_text1": "설레이는 마음으로 다가올 여행 준비해요",
+                "sub_text2": "최대 20% 할인 쿠폰",
+                "url": "",
+                "goods_list": [
+                    {
+                        "id": 58916,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": true,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 58916,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "C",
+                "banner_image_url": "https://publish.mmonstar.co.kr/istockmall/shop_2023/mobile/image/_sample/spot_theme_banner_3.jpg",
+                "banner_image_alt": "템플릿 타입 C",
+                "main_text1": "New Grove",
+                "main_text2": "영원한 멋을 선사하라",
+                "sub_text1": "시간이 흐를수록 깊어 가는 멋을 소개합니다",
+                "sub_text2": "최대 30% 할인 및 사은품 증정",
+                "url": "",
+                "goods_list": [
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": true,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    },
+                    {
+                        "id": 5,
+                        "name": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+                        "brand_name": "엠몬스타",
+                        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png",
+                        "price": 118800,
+                        "base_discounted_price": 99000,
+                        "sale_rate": 20,
+                        "sell_price": 9900,
+                        "is_soldout": true,
+                        "is_only_adult": false,
+                        "badges": [
+                            "무료배송",
+                            "쿠폰"
+                        ],
+                        "wish_count": 1200,
+                        "review_count": 890,
+                        "review_score_average": 4.5
+                    }
+                ]
+            }
+        ]
+    }

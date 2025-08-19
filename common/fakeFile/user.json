@@ -1,0 +1,15 @@
+{
+    "token" : "234234jdgjadg.arewkrewrwr.asdflk33r2342234",
+    "user" : {
+        "login_id" : "test@mmonstar.co.kr",
+        "name" : "테스2터",
+        "grade" : {
+            "id" : "2",
+            "name" : "골드",
+            "image_url" : "https://publish.mmonstar.co.kr/_ui/stylecrew/shop_2020/pc/image/_sample/prod_x2_2.png"
+        }
+    },
+    "is_awaked" : null,
+    "is_need_update_password" : false
+    
+}

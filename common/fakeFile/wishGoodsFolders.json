@@ -1,0 +1,31 @@
+{
+    "wish_goods_folders": [
+        {
+            "id": 0,
+            "name": "기본폴더",
+            "order_seq": 0,
+            "records_count": 5,
+            "recent_goods_thumbnail_url": "http://img.tnhmall.com/dev//goods/000/000/000/036/1.jpg?updated_at=20211215163631"
+        },
+        {
+            "id": 3,
+            "name": "일이",
+            "records_count": 3,
+            "order_seq": 1,
+            "recent_goods_thumbnail_url": "http://img.tnhmall.com/dev//goods/000/000/001/582/1.jpg?updated_at=20220208104701"
+        },
+        {
+            "id": 13,
+            "name": "일이삼사오륙",
+            "records_count": 8,
+            "order_seq": 2,
+            "recent_goods_thumbnail_url": "http://img.tnhmall.com/dev//goods/000/000/001/583/1.jpg?updated_at=20220113103621"
+        },
+        {
+            "id": 14,
+            "name": "this is test",
+            "records_count": 0,
+            "order_seq": 3
+        }
+    ]
+}

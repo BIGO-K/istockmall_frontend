@@ -1,0 +1,224 @@
+{
+    "has_rank_range": true,
+    "target_date": "2022-09-12",
+    "brand_list": [
+        {
+            "rank": "1",
+            "change_type": "N",
+            "change_value": "",
+            "id": "54",
+            "name": "테스트_브랜드_1",
+            "goods_list":[
+                {
+                    "id": 58831,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/88/31/1.jpg",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 5,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 58830,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/88/30/2.jpg?ut=1663045136?",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 40000,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                }
+            ]
+        },
+        {
+            "rank": "2",
+            "change_type": "N",
+            "change_value": "",
+            "id": "25",
+            "name": "기쁨인터내셔널",
+            "goods_list":[
+                {
+                    "id": 58762,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/87/62/1.jpg?ut=1661914780?",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 58586,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/85/86/1.jpg?ut=1661220857?",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 58307,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/83/07/1.jpg?ut=1661220861?",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 1,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 57578,
+                    "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/75/78/1.jpg?ut=1661220868?",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                }
+            ]
+        },
+        {
+            "rank": "3",
+            "change_type": "D",
+            "change_value": "5",
+            "id": "2",
+            "name": "브랜드명칭3",
+            "goods_list":[
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                }
+            ]
+        },
+        {
+            "rank": "4",
+            "change_type": "U",
+            "change_value": "7",
+            "id": "2",
+            "name": "브랜드명칭4",
+            "goods_list":[
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                },
+                {
+                    "id": 11,
+                    "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+                    "alt": "alt 대체 텍스트",
+                    "base_discounted_price": 33180,
+                    "stock": 10,
+                    "icon": {
+                        "background_color_code": "#10bc99",
+                        "font_color_code": "#fff",
+                        "label": "ON-LINE"
+                    },
+                    "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png"
+                }
+            ]
+        }
+    ]
+}

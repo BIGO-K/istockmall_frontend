@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /mypage/
+
+User-agent: *
+Disallow: /order/

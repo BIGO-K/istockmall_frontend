@@ -1,0 +1,65 @@
+
+{
+    "recent_view_plannings": [
+        {
+            "id": 1,
+            "title": "특가! 봄 신상 핫 세일",
+            "is_ended": false
+        },
+        {
+            "id": 2,
+            "title": "깜짝 브랜드day ♡ MAX 추가 20%인하",
+            "is_ended": false
+        },
+        {
+            "id": 3,
+            "title": "LESHOP 아울렛 독점오픈! 매장상품 저렴하게",
+            "is_ended": false
+        },
+        {
+            "id": 4,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 5,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 6,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 7,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 8,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 9,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 10,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 14,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        },
+        {
+            "id": 41,
+            "title": "브랜드 위크 최대 24% 쿠폰혜택",
+            "is_ended": true
+        }
+    ]
+}

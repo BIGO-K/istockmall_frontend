@@ -1,0 +1,125 @@
+{
+    "categoryList": [
+        {
+            "code": 1000000,
+            "name": "남성",
+            "image_url": "https://img.nstationmall.com/mall//category/001000000.jpg?ut=2022-03-10 01:42:50",            
+            "childCategoryList": [
+                {
+                    "code": "001001000",
+                    "parent_code": "001000000",
+                    "name": "아우터",
+                    "full_label": "남성 > 아우터",                  
+                    "childCateogryList": [
+                        {
+                            "code": "001001001",
+                            "parent_code": "001001000",
+                            "name": "다운",
+                            "full_label": "남성 > 아우터 > 다운"                            
+                        },
+                        {
+                            "code": "001001002",
+                            "parent_code": "001001000",
+                            "name": "업",
+                            "full_label": "남성 > 아우터 > 업"                            
+                        }
+                    ]
+                },
+                {
+                    "code": "001002000",
+                    "parent_code": "001000000",
+                    "name": "점퍼",
+                    "full_label": "남성 > 점퍼",                  
+                    "childCategoryList": [
+                        {
+                            "code": "001002001",
+                            "parent_code": "001002000",
+                            "name": "박스",
+                            "full_label": "남성 > 점퍼 > 박스"                            
+                        },
+                        {
+                            "code": "001002002",
+                            "parent_code": "001002000",
+                            "name": "업",
+                            "full_label": "남성 > 점퍼 > 업"                           
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": 2000000,
+            "name": "여성",
+            "image_url": "https://img.nstationmall.com/mall//category/002000000.jpg?ut=2022-03-10 01:42:50",            
+            "childCategoryList": [
+                {
+                    "code": "002001000",
+                    "parent_code": "2000000",
+                    "name": "아우터",
+                    "full_label": "여성 > 아우터",                  
+                    "childCategoryList": [
+                        {
+                            "code": "002001001",
+                            "parent_code": "002001000",
+                            "name": "다운",
+                            "full_label": "여성 > 아우터 > 다운"                            
+                        },
+                        {
+                            "code": "002001002",
+                            "parent_code": "002001000",
+                            "name": "업",
+                            "full_label": "여성 > 아우터 > 업"                            
+                        }
+                    ]
+                },
+                {
+                    "code": "002002000",
+                    "parent_code": "2000000",
+                    "name": "점퍼",
+                    "full_label": "여성 > 점퍼",                  
+                    "childCategoryList": [
+                        {
+                            "code": "002002001",
+                            "parent_code": "002002000",
+                            "name": "박스",
+                            "full_label": "여성 > 점퍼 > 박스"                            
+                        },
+                        {
+                            "code": "002002002",
+                            "parent_code": "002002000",
+                            "name": "업",
+                            "full_label": "여성 > 점퍼 > 업"                           
+                        }
+                    ]
+                },
+                {
+                    "code": "002003000",
+                    "parent_code": "3000000",
+                    "name": "우주",
+                    "full_label": "여성 > 우주",                  
+                    "childCategoryList": [
+                        {
+                            "code": "002003001",
+                            "parent_code": "002003000",
+                            "name": "지구",
+                            "full_label": "여성 > 우주 > 지구"                            
+                        },
+                        {
+                            "code": "002003002",
+                            "parent_code": "002003000",
+                            "name": "토성",
+                            "full_label": "여성 > 우주 > 토성"                           
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": 3000000,
+            "name": "슈즈",
+            "image_url": "https://img.nstationmall.com/mall//category/003000000.jpg?ut=2022-03-10 01:42:50",            
+            "childCategoryList": [                
+            ]
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+<template>
+    <div :class="['mui_product-item T=pb', attrs.class]">
+        <template v-if="goods.isSoldout">
+            <MMLink
+                :to="
+                    goods.isOnlyAdult && needCertificateAge
+                        ? { name: pathCertificate, query: { redirect_to_after: `/goods/detail/${goods.id}`, is_need_adult_certification: 'Y' } }
+                        : { name: 'GoodsDetail', params: { id: goods.id } }
+                "                
+            >
+                <p v-if="useRankTag" class="text_rank" />
+                <figure>
+                    <i
+                        v-lazyload="{ src: `${goods.thumbnailUrl}`}"
+                        class="mui_bg-cover image_product" 
+                        :data-lazyload="`{ '_src': '${goods.thumbnailUrl}' }`"
+                    />
+                    <p v-if="useMultiangleIcon" class="text_multiangle">
+                        <i class="uico_multiangle" /><b class="mui_ir-blind">360도 뷰</b>
+                    </p>
+                    <p v-if="goods.isSoldout" class="text_soldout">
+                        SOLD OUT
+                    </p>
+                    <p v-if="goods.isOnlyAdult && needCertificateAge" class="text_adult">
+                        <b class="mui_ir-blind">미성년자 구매불가</b><i class="uico_adult" />
+                    </p>
+                    <figcaption>
+                        <p class="text_brand">
+                            {{ goods.brandName }}
+                        </p>
+                        <p class="text_product">
+                            <span v-if="goods.headline !== undefined && goods.headline !== null" class="text_foreword">[{{ goods.headline }}]</span>
+                            {{ goods.name }}
+                        </p>
+                        <p v-if="isShowSellRate && goods.saleRate > 0" class="text_sale">
+                            {{ goods.saleRate }}%
+                        </p>
+                        <p class="text_price">
+                            <strong>{{ MMFilters.formatNumber(goods.baseDiscountedPrice) }}</strong>
+                            <del v-if="isShowPrice && goods.saleRate > 0">{{ MMFilters.formatNumber(goods.price) }}</del>
+                        </p>
+                        <div v-if="useReactTag" class="mui_product-item-react">
+                            <p class="text_star">
+                                <i class="uico_star" /><span>{{ goods.reviewScoreAverage }}</span>
+                            </p>
+                            <p class="text_review">
+                                <i class="uico_review" /><span>{{ goods.reviewCount }}</span>
+                            </p>
+                            <p class="text_like">
+                                <i class="uico_like" /><span>{{ goods.wishCount ? (goods.wishCount > 1000 ? '999+' : goods.wishCount) : 0 }}</span>
+                            </p>
+                        </div>
+                        <div v-if="(useBadges && goodsBadges.length) || goods.isUseStockNotify" class="mui_tag-list">
+                            <b v-if="goods.isUseStockNotify" class="mui_tag T=square T=product-status">재입고 예정</b>
+                            <template v-if="useBadges">
+                                <b v-for="badge in goodsBadges" :key="badge" class="mui_tag T=square T=dark">{{ badge }}</b>
+                            </template>
+                        </div>
+                    </figcaption>
+                </figure>
+            </MMLink>
+        </template>
+        <template v-else>
+            <MMLink
+                :to="
+                    goods.isOnlyAdult && needCertificateAge
+                        ? { name: pathCertificate, query: { redirect_to_after: `/goods/detail/${goods.id}`, is_need_adult_certification: 'Y' } }
+                        : { name: 'GoodsDetail', params: { id: goods.id } }
+                "                
+            >
+                <p v-if="useRankTag" class="text_rank" />
+                <figure>
+                    <i
+                        v-lazyload="{ src: `${goods.thumbnailUrl}`}"
+                        class="mui_bg-cover image_product" 
+                        :data-lazyload="`{ '_src': '${goods.thumbnailUrl}' }`"
+                    />
+                    <p v-if="useMultiangleIcon" class="text_multiangle">
+                        <i class="uico_multiangle" /><b class="mui_ir-blind">360도 뷰</b>
+                    </p>
+                    <p v-if="goods.isOnlyAdult && needCertificateAge" class="text_adult">
+                        <b class="mui_ir-blind">미성년자 구매불가</b><i class="uico_adult" />
+                    </p>
+                    <p v-if="goods.icon" class="text_tag" :style="{ 'background-color': goods.icon.backgroundColor, color: goods.icon.textColor }">
+                        {{ goods.icon.label }}
+                    </p>
+                    <figcaption>
+                        <p class="text_brand">
+                            {{ goods.brandName }}
+                        </p>
+                        <p class="text_product">
+                            <span v-if="goods.headline !== undefined && goods.headline !== null" class="text_foreword">[{{ goods.headline }}]</span>
+                            {{ goods.name }}
+                        </p>
+                        <p v-if="isShowSellRate && goods.saleRate > 0" class="text_sale">
+                            {{ goods.saleRate }}%
+                        </p>
+                        <p class="text_price">
+                            <strong>{{ MMFilters.formatNumber(goods.baseDiscountedPrice) }}</strong>
+                            <del v-if="isShowPrice && goods.saleRate > 0">
+                                <span>{{ MMFilters.formatNumber(goods.price) }}</span>
+                            </del>
+                        </p>
+                        <div v-if="useReactTag" class="mui_product-item-react">
+                            <p class="text_star">
+                                <i class="uico_star" /><span>{{ goods.reviewScoreAverage }}</span>
+                            </p>
+                            <p class="text_review">
+                                <i class="uico_review" /><span>{{ goods.reviewCount }}</span>
+                            </p>
+                            <p class="text_like">
+                                <i class="uico_like" /><span>{{ goods.wishCount ? (goods.wishCount > 1000 ? '999+' : goods.wishCount) : 0 }}</span>
+                            </p>
+                        </div>
+                        <div v-if="(useBadges && goodsBadges.length) || (goods.stock && goods.stock < 6)" class="mui_tag-list">
+                            <b v-if="goods.stock && goods.stock < 6" class="mui_tag T=square T=product-status">품절임박</b>
+                            <template v-if="useBadges">
+                                <b v-for="badge in goodsBadges" :key="badge" class="mui_tag T=square T=dark">{{ badge }}</b>
+                            </template>
+                        </div>
+                        <slot name="extra_goods_data" />
+                    </figcaption>
+                </figure>
+            </MMLink>
+        </template>
+        <button
+            v-if="useLikedButton"
+            type="button"
+            :class="['mui_switch btn_like', { 'S=switch-on': isLiked }]"
+            data-switch
+            @click="toggleLiked()"
+        >
+            <i class="uico_like" /><b class="mui_ir-blind">찜한 아이템에 추가하기</b>
+        </button>
+    </div>
+</template>
+
+<script lang="ts">
+import { defineComponent, toRefs, PropType, computed } from 'vue'
+import type { Goods } from '$/@type/goods'
+import { mmon } from '$/helper/mmon'
+import { useLikedGoods, useWishedGoods } from '$/composables/shoppingComposable'
+import { usePageContext } from '$/composables/pageHandler/contextComposable'
+import { defaultCatch } from '$/functions'
+
+export default defineComponent({
+    inheritAttrs: false,
+    props: {
+        goods: {
+            type: Object as PropType<Goods>,
+            required: true,
+        },
+        isShowPrice: {
+            type: Boolean,
+            default: true,
+        },
+        isShowSellRate: {
+            type: Boolean,
+            default: true,
+        },
+        useLikedButton: {
+            type: Boolean,
+            default: false,
+        },
+        useReactTag: {
+            type: Boolean,
+            default: false,
+        },
+        useRankTag: {
+            type: Boolean,
+            default: false,
+        },
+        useBadges: {
+            type: Boolean,
+            default: false,
+        },
+        useMultiangleIcon: {
+            type: Boolean,
+            default: false,
+        }
+    },
+    setup(props, { attrs }) {
+        const { goods } = toRefs(props)
+        const { setWishedGoodsId } = useWishedGoods()
+        const {
+            route,
+            router,        
+            isUser,
+            needCertificateAge
+        } = usePageContext();
+
+        const {
+            isLiked,            
+            removeLiked
+        } = useLikedGoods(goods.value.id);
+
+        const pathCertificate = isUser.value ? 'AdultCertification' : 'Login'
+        const goodsBadges = computed<string[]>(() => {
+            const badges: string[] = goods.value.badges || [];
+            if (
+                (goods.value.isUseStockNotify && goods.value.isSoldout)
+                || (goods.value.stock && goods.value.stock < 6)
+            ) {
+                return badges.slice(0,1);
+            }
+            return badges.slice(0,2)
+        });
+
+        async function toggleLiked() {
+            if (isUser.value === false) {
+                return mmon.bom.confirm('로그인이 필요합니다.\n로그인 페이지로 이동하시겠습니까?', (isOn: boolean) => {
+                    if (isOn) {
+                        router.push({
+                            name: 'Login',
+                            query: {
+                                redirect_to_after: route.path,
+                            },
+                        })
+                    }
+                })
+            }
+
+            // 좋아요 안한 상태라면 좋아요 폴더 모달 open
+            if (isLiked.value === false) {
+                setWishedGoodsId(goods.value.id)
+                window.location.hash = '#WISHED_FOLDER'
+            }
+
+            try {
+                removeLiked();
+            } catch (e) {
+                defaultCatch(e);
+            }
+        }
+
+        return {
+            attrs,
+            isLiked,
+            goodsBadges,
+            pathCertificate,
+            needCertificateAge,
+            toggleLiked,     
+        }
+    },
+})
+</script>

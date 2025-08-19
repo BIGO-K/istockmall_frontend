@@ -1,0 +1,8 @@
+{
+    "point_rule": {
+        "min_usable_balance": 100,
+        "max_usable_amount_type": "rate",
+        "max_usable_amount": 5,
+        "usable_month": 6
+    }
+}

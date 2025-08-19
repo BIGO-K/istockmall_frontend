@@ -1,0 +1,69 @@
+{
+  "paginator": {
+    "current_page": 1,
+    "per_page": 2,
+    "total": 10,
+    "data": [
+      {
+        "id": 1,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND A",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_2.png"
+      },
+      {
+        "id": 2,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND B",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      },
+      {
+        "id": 3,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND C",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      },
+      {
+        "id": 4,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND D",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      },
+      {
+        "id": 5,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND E",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      },
+      {
+        "id": 6,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND F",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      },
+      {
+        "id": 7,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND G",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_2.png"
+      },
+      {
+        "id": 8,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND H",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      },
+      {
+        "id": 9,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND I",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      },
+      {
+        "id": 10,
+        "title": "[단독] 남녀공용 블랙 숏 라이너 리버시블 점 퍼 블랙 숏 라이너 리버시블 점퍼",
+        "brand_name": "BRAND J",
+        "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_1.png"
+      }
+    ]
+  }
+}

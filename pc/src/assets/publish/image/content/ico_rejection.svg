@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49" height="40" viewBox="0 0 49 40">
+  <g id="아이콘" transform="translate(-330.215 -71.089)">
+    <text id="_0xe817" data-name="0xe817" transform="translate(349.215 102.089)" fill="#dcdcdc" font-size="37" font-family="monticon" letter-spacing="-0.015em"><tspan x="-18" y="0"></tspan></text>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="11.25" cy="11.25" r="11.25" transform="translate(356.715 88.589)" fill="#fff"/>
+    <path id="x-mark-11" d="M373.128,103.183l-2.687-2.654,2.653-2.683-1.059-1.05-2.652,2.685L366.7,96.83l-1.051,1.051,2.688,2.657-2.653,2.687,1.051,1.051,2.659-2.69,2.686,2.656Zm-3.74-11.624a8.977,8.977,0,1,0,8.977,8.977A8.977,8.977,0,0,0,369.388,91.559Zm0,1.5a7.481,7.481,0,1,1-7.481,7.481A7.489,7.489,0,0,1,369.388,93.055Z" transform="translate(-0.535 -0.661)" fill="#dedede" stroke="#dcdcdc" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

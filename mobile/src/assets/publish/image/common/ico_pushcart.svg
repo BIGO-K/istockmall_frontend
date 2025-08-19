@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="21" viewBox="0 0 25 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형" width="25" height="21" transform="translate(-487 8228)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="장바구니" transform="translate(487 -8228)" clip-path="url(#clip-path)">
+    <rect id="사각형_" data-name="사각형 " width="6.034" height="1.724" transform="translate(-487 8228)" fill="#4a4a4a"/>
+    <g id="패스_" data-name="패스 " transform="translate(-481.828 8230.586)" fill="none">
+      <path d="M0,0H19.828L16.379,11.207H2.586Z" stroke="none"/>
+      <path d="M 2.514101028442383 1.999998092651367 L 4.177227973937988 9.20689868927002 L 14.90216255187988 9.20689868927002 L 17.11966514587402 1.999998092651367 L 2.514101028442383 1.999998092651367 M 3.814697265625e-06 -1.9073486328125e-06 L 19.82758331298828 -1.9073486328125e-06 L 16.37931442260742 11.20689868927002 L 2.586202621459961 11.20689868927002 L 3.814697265625e-06 -1.9073486328125e-06 Z" stroke="none" fill="#4a4a4a"/>
+    </g>
+    <path id="패스_2" data-name="패스 " d="M-.7,0H1.2L4.214,13.793H2.49Z" transform="translate(-481.731 8228)" fill="#4a4a4a"/>
+    <g id="타원" transform="translate(-479.241 8243.516)" fill="none" stroke="#4a4a4a" stroke-width="1.5">
+      <ellipse cx="2.586" cy="2.586" rx="2.586" ry="2.586" stroke="none"/>
+      <ellipse cx="2.586" cy="2.586" rx="1.836" ry="1.836" fill="none"/>
+    </g>
+    <g id="타원-2" data-name="타원" transform="translate(-470.621 8243.516)" fill="none" stroke="#4a4a4a" stroke-width="1.5">
+      <ellipse cx="2.586" cy="2.586" rx="2.586" ry="2.586" stroke="none"/>
+      <ellipse cx="2.586" cy="2.586" rx="1.836" ry="1.836" fill="none"/>
+    </g>
+  </g>
+</svg>

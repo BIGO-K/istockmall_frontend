@@ -1,0 +1,9 @@
+{
+    "refund_account": {
+        "owner_name": "김수한무",
+        "bank_name": "국민은행",
+        "bank_code": "BK04",
+        "account_number": "4123412351234"
+    },
+    "refund_account_2": null
+}

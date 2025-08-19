@@ -1,0 +1,112 @@
+{
+    "grades": [
+        {
+            "id": 5,
+            "name": "VIP",
+            "image_url": "https://image.stylecrew.co.kr/mall/dev/grade/5.png",
+            "order": 5,
+            "level_up_condition_text": "200만원 이상, 10건 이상 구매",
+            "grade_up_sell_price_condition": 2000000,
+            "grade_up_sell_amount_condition": 10,
+            "is_default": false,
+            "is_benefit_use": true,
+            "purchase_benefit_rate": 7,
+            "coupons": [
+                {
+                    "id": 1,
+                    "dc_amount": 20,
+                    "dc_type": "rate",
+                    "download_limit": 3,
+                    "is_unlimited": false,
+                    "user_registed_count": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "GOLD",
+            "image_url": "https://image.stylecrew.co.kr/mall/dev/grade/4.png",
+            "order": 4,
+            "level_up_condition_text": "150만원 이상, 5건 이상 구매",
+            "grade_up_sell_price_condition": 1000000,
+            "is_default": false,
+            "is_benefit_use": true,
+            "purchase_benefit_rate": 6,
+            "coupons": [
+                {
+                    "id": 3,
+                    "dc_amount": 15,
+                    "dc_type": "rate",
+                    "download_limit": 2,
+                    "is_unlimited": false,
+                    "user_registed_count": 1
+                },
+                {
+                    "id": 2,
+                    "dc_amount": 3000,
+                    "dc_type": "KRW",
+                    "download_limit": 0,
+                    "is_unlimited": true,
+                    "user_registed_count": 1
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "SILVER",
+            "image_url": "https://image.stylecrew.co.kr/mall/dev/grade/3.png",
+            "order": 3,
+            "level_up_condition_text": "100만원 이상, 2건 이상 구매" ,
+            "grade_up_sell_amount_condition": 4,
+            "is_default": false,
+            "is_benefit_use": true,
+            "purchase_benefit_rate": 5,
+            "coupons": [
+                {
+                    "id": 3,
+                    "dc_amount": 10,
+                    "dc_type": "rate",
+                    "download_limit": 1,
+                    "is_unlimited": false,
+                    "user_registed_count": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "BRONZE",
+            "image_url": "https://image.stylecrew.co.kr/mall/dev/grade/2.png",
+            "order": 2,
+            "level_up_condition_text": "50만원 이상, 1건 이상 구매",
+            "is_benefit_use": true,
+            "purchase_benefit_rate": 4,
+            "is_default": false
+        },
+        {
+            "id": 1,
+            "name": "FAMILY",
+            "image_url": "https://image.stylecrew.co.kr/mall/dev/grade/1.png",
+            "order": 1,
+            "level_up_condition_text": "신규 회원 및 미구매",
+            "is_benefit_use": true,
+            "purchase_benefit_rate": 3,
+            "is_default": true,
+            "coupons": [
+                {
+                    "id": 3,
+                    "dc_amount": 15,
+                    "dc_type": "rate",
+                    "download_limit": 2,
+                    "is_unlimited": false
+                },
+                {
+                    "id": 2,
+                    "dc_amount": 3000,
+                    "dc_type": "KRW",
+                    "download_limit": 0,
+                    "is_unlimited": true
+                }
+            ]
+        }
+    ]
+}

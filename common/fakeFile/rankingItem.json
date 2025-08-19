@@ -1,0 +1,352 @@
+{
+    "has_rank_range": true,
+    "target_date": "2022-09-15",
+    "goods_list": [
+        {
+            "category_code": "001000000",
+            "rank": "1",
+            "change_type": "N",
+            "change_value": "",
+            "id": 58803,
+            "name": "윈터 롱 마그넷 맨투맨",
+            "brand_name": "WhiteSmoke",
+            "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/88/03/1.jpg",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": false,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 5,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "mouse_over_image_url" : "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x2_3.png",
+            "headline" : "말머리"
+        },
+        {
+            "category_code": "",
+            "rank": "2",
+            "change_type": "U",
+            "change_value": "5",
+            "id": 12,
+            "name": "[공효진 착용 아이템] 2020 S/S 반다나&플라워 믹스 패턴 스트링 티어드 스타일 롱원피스",
+            "brand_name": "써스데이아일랜드",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": true,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": true,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "005000000",
+            "rank": "3",
+            "change_type": "D",
+            "change_value": "2",
+            "id": 13,
+            "name": "버닝카포테 SS20 LOGO T-SHIRT 화이트",
+            "brand_name": "4XR",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_1.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": true,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "005000000",
+            "rank": "4",
+            "change_type": "S",
+            "change_value": "",
+            "id": 14,
+            "name": "아이커버낫 사퍼맨 티셔츠 아이블랙",
+            "brand_name": "커버낫",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": false,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "001000000",
+            "rank": "5",
+            "change_type": "N",
+            "change_value": "",
+            "id": 58803,
+            "name": "윈터 롱 마그넷 맨투맨",
+            "brand_name": "WhiteSmoke",
+            "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/88/03/1.jpg",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": false,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 5,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "",
+            "rank": "6",
+            "change_type": "U",
+            "change_value": "5",
+            "id": 12,
+            "name": "[공효진 착용 아이템] 2020 S/S 반다나&플라워 믹스 패턴 스트링 티어드 스타일 롱원피스",
+            "brand_name": "써스데이아일랜드",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": true,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": true,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "005000000",
+            "rank": "7",
+            "change_type": "D",
+            "change_value": "2",
+            "id": 13,
+            "name": "버닝카포테 SS20 LOGO T-SHIRT 화이트",
+            "brand_name": "4XR",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_1.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": true,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "005000000",
+            "rank": "8",
+            "change_type": "S",
+            "change_value": "",
+            "id": 14,
+            "name": "아이커버낫 사퍼맨 티셔츠 아이블랙",
+            "brand_name": "커버낫",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": false,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "001000000",
+            "rank": "9",
+            "change_type": "N",
+            "change_value": "",
+            "id": 58803,
+            "name": "윈터 롱 마그넷 맨투맨",
+            "brand_name": "WhiteSmoke",
+            "thumbnail_url": "https://image.mmonstar.co.kr/ftp-data/mmonv2/mmon_v2_mall_shop/develop/goods/00/00/00/05/88/03/1.jpg",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": false,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 5,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "",
+            "rank": "10",
+            "change_type": "U",
+            "change_value": "5",
+            "id": 12,
+            "name": "[공효진 착용 아이템] 2020 S/S 반다나&플라워 믹스 패턴 스트링 티어드 스타일 롱원피스",
+            "brand_name": "써스데이아일랜드",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": true,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": true,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "005000000",
+            "rank": "11",
+            "change_type": "D",
+            "change_value": "2",
+            "id": 13,
+            "name": "버닝카포테 SS20 LOGO T-SHIRT 화이트",
+            "brand_name": "4XR",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_1.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": true,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        },
+        {
+            "category_code": "005000000",
+            "rank": "12",
+            "change_type": "S",
+            "change_value": "",
+            "id": 14,
+            "name": "아이커버낫 사퍼맨 티셔츠 아이블랙",
+            "brand_name": "커버낫",
+            "thumbnail_url": "https://publish.mmonstar.co.kr/solution/ver2/pc/image/_sample/prod_x1_2.png",
+            "alt": "alt 대체 텍스트",
+            "is_only_adult": false,
+            "base_discounted_price": 66000,
+            "price": 139000,
+            "sell_price": 139000,
+            "sale_rate": 17,
+            "stock": 17,
+            "is_soldout": false,
+            "icon": {
+                "background_color_code": "#10bc99",
+                "font_color_code": "#fff",
+                "label": "ON-LINE"
+            },
+            "badges": [
+                "무료배송",
+                "쿠폰"
+            ],
+            "wish_count": 1200,
+            "review_count": 890,
+            "review_score_average": 4.5
+        }
+    ]
+}

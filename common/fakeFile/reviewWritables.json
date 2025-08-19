@@ -1,0 +1,50 @@
+{
+    "paginator": {
+        "max_total_earnable_point": 2000,
+        "total_written": 3,
+        "total" : 2,
+        "per_page" : 20,
+        "current_page" : 1,
+        "data" : [
+            {
+                "order_id": "123412341234",
+                "option_id": 1,
+                "ea": 4,
+                "goods" : {
+                    "id" : 1,
+                    "name" : "MediumVioletRed Heavy Equi ut",
+                    "option_name" : "LightBlue S",
+                    "brand_name" : "마이애미 프로젝트",
+                    "thumbnail_url" : "https://img.nstationmall.com/mall//goods/000/000/004/120/1.jpg?resizewb=800x800&updated_at=2022040413460"
+                },
+                "ordered_at" : "2022-03-22T14:25:11.000000Z"
+            },
+            {
+                "order_id": "123412341234",
+                "option_id": 2,
+                "ea": 2,
+                "goods" : {
+                    "id" : 1,
+                    "name" : "MediumVioletRed Heavy Equi ut",
+                    "option_name" : "LightBlue S",
+                    "brand_name" : "마이애미 프로젝트",
+                    "thumbnail_url" : "https://img.nstationmall.com/mall//goods/000/000/004/120/1.jpg?resizewb=800x800&updated_at=2022040413460"
+                },
+                "ordered_at" : "2022-03-22T14:25:11.000000Z"
+            },
+            {
+                "order_id": "123412341234",
+                "option_id": 3,
+                "ea": 1,
+                "goods" : {
+                    "id" : 12,
+                    "name" : "티셔츠",
+                    "option_name" : "LightBlue / S",
+                    "brand_name" : "마이애미 프로젝트",
+                    "thumbnail_url" : "https://img.nstationmall.com/mall//goods/000/000/004/120/1.jpg?resizewb=800x800&updated_at=2022040413460"
+                },
+                "ordered_at" : "2022-05-22T14:25:11.000000Z"
+            }
+        ]
+    }
+}

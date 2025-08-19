@@ -1,0 +1,48 @@
+
+{
+	"paginator" : {
+    "total" : 16,
+    "data": [
+        {
+          "id": 3,
+          "name": "아이커버낫 사퍼맨 티셔츠 아이블랙",
+          "brand_name": "커버낫",
+          "image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_3.png",
+          "dc_1_price": 33180,
+          "is_soldout": false
+        },
+        {
+          "id": 1,
+          "name": "버닝카포테 SS20 LOGO T-SHIRT 화이트",
+          "brand_name": "4XR",
+          "image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_1.png",
+          "dc_1_price": 66000,
+          "is_soldout": false
+        },
+        {
+          "id": 2,
+          "name": "뉴눈누누누",
+          "brand_name": "써스데이아일랜드",
+          "image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_4.png",
+          "dc_1_price": 33180,
+          "is_soldout": false
+        },
+        {
+            "id": 4,
+            "name": "[공효진 착용 아이템] 2020 S/S 반다나&플라워 믹스 패턴 스트링 티어드 스타일 롱원피스",
+            "brand_name": "써스데이아일랜드",
+            "image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_2.png",
+            "dc_1_price": 33180,
+            "is_soldout": true
+        },
+        {
+            "id": 5,
+            "name": "롸",
+            "brand_name": "써스데이아일랜드",
+            "image_url": "https://publish.mmonstar.co.kr/thenature/shop_2021/pc/image/_sample/prod_x1_3.png",
+            "dc_1_price": 33180,
+            "is_soldout": true
+        }
+    ]
+  }
+}
